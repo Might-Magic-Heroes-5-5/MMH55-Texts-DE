@@ -1,0 +1,1 @@
+﻿<body_bright><center>Fertigkeitenrad<br><br><color_default>Zeigt ein detailliertes Schema der Fertigkeiten und Fähigkeiten, die für jede Heldenklasse verfügbar sind, zusammen mit den Attributen der Heldenklasse und Erklärungen zu allen Fertigkeiten und Fähigkeiten in MMH5.5 an.

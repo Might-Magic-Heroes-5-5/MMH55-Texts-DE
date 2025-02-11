@@ -1,0 +1,1 @@
+﻿Der Zeitraum, bis der Held nach einem gewirkten Zauber wieder an die Reihe kommt, verringert sich um 33%. Massenzauber sind davon nicht betroffen.<br><color_default>Die Basisinitiative des Helden beträgt 10 und wird auf genau 15 erhöht, solange Zauber gewirkt werden.

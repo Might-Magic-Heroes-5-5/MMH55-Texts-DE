@@ -1,0 +1,1 @@
+﻿Mystiker: Held kann im Kampf allmählich Mana regenerieren. Die Regenerationszeit ist von der Heldenstufe abhängig. Der Held gewinnt vor jeder Aktion Stufe/4 (aufgerundet) Mana zurück.

@@ -1,0 +1,2 @@
+﻿+25% Bewegungspunkte auf dem Land<br><br>
+<color=red>Enge passform<br><color_default>Wenn das Artefakt abgelegt wird, verliert der Held 750 Bewegungspunkte.

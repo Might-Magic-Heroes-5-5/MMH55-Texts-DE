@@ -1,0 +1,1 @@
+﻿Fügt der ausgewählten Feindeinheit Blitzschaden zu.

@@ -1,0 +1,1 @@
+﻿Der Held lernt den Zauber Verfall und erhält Flächendeckende Effekte für die Zauber Verfall und Verwundbarkeit. Fügt +4 der effektiven Zauberkraft des Zaubers "Fluch der Unterwelt" hinzu.<br><color_default>Kollektivzauber kosten viermal so viel Mana. Der ATB-Wert des Helden wird nach dem Wirken eines Kollektivzaubers unabhängig von der Stufe der Zauberei auf 0,15 zurückgesetzt.

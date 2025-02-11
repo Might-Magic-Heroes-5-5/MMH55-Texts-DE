@@ -1,0 +1,1 @@
+﻿Infiziert die Feindeinheit mit einer Seuche. Die Einheit erleidet bei jeder ihrer Aktionen Erdschaden. Dieser Zauber hat flächendeckende Wirkung.<br><color_default>Der Zauber ist wirkungslos gegen untote, elementare und mechanische Einheiten.

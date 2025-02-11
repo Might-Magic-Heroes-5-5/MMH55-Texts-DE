@@ -1,0 +1,1 @@
+﻿Scharfe Klinge: Alle Speerwerfer, Plänkler und Harpunierer in der Armee des Helden erhalten ab der ersten Stufe +1 zu ihrem Angriff und ihrer Verteidigung für alle zwei Stufen des Helden, beginnend mit der ersten Stufe.

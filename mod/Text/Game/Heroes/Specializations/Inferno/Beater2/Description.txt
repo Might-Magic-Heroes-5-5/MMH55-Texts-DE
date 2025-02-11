@@ -1,0 +1,1 @@
+﻿Läufer: Die Bewegungspunkte des Helden werden sofort um 5% erhöht und um +1% pro vier Stufen. Die Kosten für den Zauber Teleport werden um die Hälfte reduziert.

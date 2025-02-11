@@ -1,0 +1,1 @@
+﻿Ausgewählter Sylvannas: Der Held startet mit permanent +1 Moral und zu Beginn jeder Woche werden zusätzliche Grüne Drachen, Smaragddrachen und Kristalldrachen für die Rekrutierung in allen Waldläuferstädten zur Verfügung stehen. Die Anzahl entspricht 0.04*Heldenlevel. Es gibt keine zusätzlichen Kreaturen vor Level 13.

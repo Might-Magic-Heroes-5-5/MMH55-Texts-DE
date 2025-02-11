@@ -1,0 +1,3 @@
+﻿+2 Wissen<br>
++2 Glück<br><br><color=orange>
+Arkane Adler<color_default><br>Verbrenne dieses Artefakt in einem Tempel und es wird einen Stapel Arkane Adler beschwören. Die Größe des Stapels ist gleich 2*Anzahl der vergangenen Wochen.

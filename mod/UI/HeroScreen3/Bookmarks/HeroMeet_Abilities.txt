@@ -1,0 +1,1 @@
+﻿Fähigkeiten<hotkey=hero_abilities>

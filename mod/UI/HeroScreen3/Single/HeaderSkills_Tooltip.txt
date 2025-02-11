@@ -1,0 +1,1 @@
+﻿In diesem Fenster werden Informationen über die klassenbasierten Fähigkeiten des Helden und alle im Laufe des Spiels erlernten Sekundärfähigkeiten angezeigt.

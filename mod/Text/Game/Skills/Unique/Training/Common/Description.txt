@@ -1,0 +1,1 @@
+﻿Erhöht den Schaden, den die Truppen des Helden bei ihrer Gegenwehr verursachen. Erlaubt es Rittern, menschliche Truppen zur nächsthöheren Einheit aufzuwerten. Dies funktioniert nur innerhalb von Zufluchts-Städten in denen ein Trainingsgelände gebaut wurde. 

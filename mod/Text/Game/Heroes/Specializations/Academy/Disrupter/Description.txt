@@ -1,0 +1,1 @@
+﻿Unterbrecher: Spezialisiert sich auf Verwundbarkeit, so dass der Zauber nicht nur die Verteidigung des Ziels verringert, sondern auch Schaden zufügt. Der zugefügte Schaden hängt von der Heldenstufe ab. Der Schaden ist = 30+30*ceil(Level/2), wobei ceil() die Aufrundungsfunktion ist.

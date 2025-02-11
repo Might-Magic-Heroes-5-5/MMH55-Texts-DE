@@ -1,0 +1,1 @@
+﻿Klasse: Nekromant<br>Spezialisierung: Wiederbeleber<br><br><body_bright>Der Zauber Tote erwecken hat seine Wirkung verstärkt. Die Zauberkraft dieses Zaubers wird, beginnend mit der ersten Stufe, für alle drei Stufen des Helden um +1 erhöht.<br><color_default>Beginnt mit der Fähigkeit Einfache Dunkelmagie.

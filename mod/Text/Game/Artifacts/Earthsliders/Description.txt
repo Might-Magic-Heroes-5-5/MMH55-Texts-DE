@@ -1,0 +1,3 @@
+﻿+20% für Erdzauber<br>
++2 Mana pro Tag wenn das Artefakt ununterbrochen getragen wird<br><color_default>
+Die Schadenserhöhung betrifft Steinsplitter, Meteoritenhagel, Implosion und Verfall

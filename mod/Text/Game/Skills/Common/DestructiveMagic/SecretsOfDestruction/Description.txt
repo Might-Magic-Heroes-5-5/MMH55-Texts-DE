@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Wissen und erhöht den Wert um 1 für jeweils 10 Stufen. Der Held erwirbt außerdem einen willkürlich ausgewählten Desktruktiven Zauber der ersten bis dritten Stufe, der sich noch nicht im Zauberbuch des Helden befindet.

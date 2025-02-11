@@ -1,0 +1,1 @@
+﻿Diese Kreatur kann den Zug der gewählten verbündeten Einheit beschleunigen, indem sie die ATB um 0,1*Stapelgröße dieser Kreatur, aber nicht mehr als 0,6, erhöht und gleichzeitig Schaden in Höhe der Stapelgröße dieser Kreatur an ihr verursacht (aktivierte Fähigkeit).

@@ -1,0 +1,1 @@
+﻿Klasse: Nethermagier<br>Spezialisierung: Hexenkönig<br><br><body_bright>Die Zauberkraft des Helden erhöht sich für jeweils 6 Erfahrungsstufen um +1.<br><color_default>Beginnt mit der Befähigung Arkanes Ritual.

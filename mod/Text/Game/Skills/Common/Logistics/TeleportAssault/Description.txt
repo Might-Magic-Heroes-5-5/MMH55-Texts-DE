@@ -1,0 +1,1 @@
+﻿Der Held erwirbt den Zauber Teleportation. Zusätzlich erhöht sich die Initiative der Kreatur, auf die der Zauber gewirkt wird.<br><color_default>Das Ziel kann nicht hinter Stadtmauern teleportiert werden, es sei denn, der Held besitzt Meisterliche Dunkelmagie. Der ATB-Wert des teleportierten Trupps erhöht sich um 0,5, gekappt bei 1.

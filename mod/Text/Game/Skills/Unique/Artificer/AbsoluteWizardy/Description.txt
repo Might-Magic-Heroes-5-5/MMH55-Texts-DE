@@ -1,0 +1,1 @@
+﻿Alle existierenden Zauber werden ins Zauberbuch des Helden geschrieben, der sie auf der Stufe meisterlich wirken kann.

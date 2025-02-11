@@ -1,0 +1,1 @@
+﻿Die herbeirufenden Einheiten verbrauchen nur 50% ihres Zugs um Verstärkung zu rufen (anstelle von 75%).

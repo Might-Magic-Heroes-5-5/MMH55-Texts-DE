@@ -1,0 +1,1 @@
+﻿Klasse: Ingenieur<br>Spezialisierung: Meisteringenieur<br><br><body_bright>Die Balliste erhält +1 auf ihren Angriff für jede Stufe des Helden. Die Chance des Katapults, die Mauer zu treffen, wird für jede Heldenstufe um 2% erhöht.<br><color_default>Beginnt mit der Befähigung Balliste.

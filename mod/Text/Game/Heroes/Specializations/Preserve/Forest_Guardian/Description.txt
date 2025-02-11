@@ -1,0 +1,1 @@
+﻿Schwert der Sylvaner: Der Held beginnt mit Beschwörender Magie (eine Fähigkeit, die Rächer normalerweise nicht erlernen können) und alle sylvanischen Kreaturen, die unter dem Kommando des Helden stehen, fügen den bevorzugten Gegnern für jede Erfahrungsstufe +0.5% mehr Schaden zu.

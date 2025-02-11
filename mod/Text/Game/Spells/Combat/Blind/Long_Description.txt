@@ -1,0 +1,1 @@
+﻿Blendet die ausgewählte Kreatur, so dass sie sich nicht mehr bewegen, nicht angreifen und auch keine Fähigkeiten einsetzen kann. Die Blindheit verschwindet, sobald die geblendete Kreatur angegriffen wird. Die Zauberkraft des Helden bestimmt die Dauer der Wirkung.<br><color_default>Der Zauber ist wirkungslos gegen untote, elementare und mechanische Einheiten.

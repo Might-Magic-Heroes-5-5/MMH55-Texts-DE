@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Zauberkraft und zu Beginn jeder Woche werden zusätzliche Dschinns, Dschinnsultane oder Dschinnwesire in die Armee des Helden aufgenommen, die Anzahl entspricht 0,15 * Heldenstufe.

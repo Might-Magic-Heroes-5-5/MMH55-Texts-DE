@@ -1,0 +1,2 @@
+﻿Der Held erwirbt den Zauber Erdbeben und die Fähigkeit, ihn mit einem Erschütterungseffekt zu wirken, der allen Kreaturen hinter der Festungsmauer Schaden zufügt und sie betäubt. Der verursachte Schaden beträgt 120+12*Kraft. Der Betäubungseffekt reduziert den ATB-Wert um 0,1. Auch befreundete Truppen werden getroffen.<br><br><color=orange>Sylannas Schüler<color_default><br>
+Der Held wird ein Anhänger des Drachengottes der Erde und entdeckt 10 Drachenblutkristalle.

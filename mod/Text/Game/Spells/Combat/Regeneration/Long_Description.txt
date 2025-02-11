@@ -1,0 +1,1 @@
+﻿Die Zielkreatur regeneriert Lebenspunkte, wenn sie an der Reihe ist. Funktioniert nicht bei untoten, mechanischen und elementaren Kreaturen.

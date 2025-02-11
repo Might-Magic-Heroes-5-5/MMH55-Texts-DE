@@ -1,0 +1,1 @@
+﻿Die Kreatur feuert einen Blitz ab und verursacht magischen Schaden in Höhe von 40 * der Größe des Stapels. Kann auch im Nahkampf als Fernkampfangriff eingesetzt werden.

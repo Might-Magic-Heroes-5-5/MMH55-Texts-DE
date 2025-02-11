@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Elend und das Glück aller feindlichen Truppen im Kampf wird um 1 verringert.<br><color_default>Häuptlinge erlernen den Zauber Elend nicht.

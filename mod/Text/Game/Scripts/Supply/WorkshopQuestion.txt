@@ -1,0 +1,4 @@
+﻿Der Besitzer der Kriegsmaschinenfabrik bietet dir einen Liefervertrag an. Im Gegenzug für <value=num> Gold wird er dir jede Woche eine zufällige Menge (3-7) Holz liefern. 
+
+OK = Unterschreiben Sie den Vertrag (<value=num> Gold)
+Abbrechen = Überprüfe sein Inventar

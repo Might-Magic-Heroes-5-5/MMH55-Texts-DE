@@ -1,0 +1,2 @@
+﻿Fügt +4 allen Attributen des Helden hinzu und bietet einen Bonus von +5 Angriff und Verteidigung für alle Kreaturen der Stufe 7 in der Armee des Helden, ebenfalls werden ihre Trefferpunkte um +20 erhöht. 
+Jeden Tag wird die Armee mit einer Kreatur der Stufe 5 verstärkt.

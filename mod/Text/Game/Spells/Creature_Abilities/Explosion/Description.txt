@@ -1,0 +1,1 @@
+﻿Einmal pro Kampf kann diese Kreatur in einem Feuerball explodieren und allen Kreaturen auf benachbarten Feldern Feuerschaden zufügen, ohne sich selbst zu verletzen.

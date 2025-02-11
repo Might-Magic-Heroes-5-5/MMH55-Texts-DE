@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Erdbeben und ruft die Kräfte der Natur auf, um auf die feindlichen Zauberer einzuwirken. Jedes Mal, wenn eine gegnerische Kreatur einen Zauberspruch wirkt, erhält sie den 30-fachen Schaden abhängig von der Heldenstufe.<br><color_default>Häuptlinge lernen nicht den Zauber Erdbeben.

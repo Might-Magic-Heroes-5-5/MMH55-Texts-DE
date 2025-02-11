@@ -1,0 +1,1 @@
+﻿Die Balliste erhält zwei zusätzliche Schüsse, so dass sie 4 aufeinanderfolgende Schüsse in einer Runde abgeben kann.

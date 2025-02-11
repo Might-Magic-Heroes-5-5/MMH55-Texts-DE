@@ -1,0 +1,2 @@
+﻿Schaden: <color=green><value=damage><color=white><br>
+Tötet: <color=red><value=kills><color=white>

@@ -1,0 +1,1 @@
+﻿Ruft einen Insektenschwarm herbei, welcher der ausgewählten Feindeinheit magischen Schaden zufügt. Die Kreatur wird abgelenkt und ihr ATB-Wert wird um 0,2, 0,25, 0,3 oder 0,4 je nach Fähigkeitsstufe reduziert.<br><color_default>Der Zauber ist wirkungslos gegen untote, elementare und mechanische Einheiten.

@@ -1,0 +1,4 @@
+﻿+3 Zauberkraft<br>
++20% gewonnene Erfahrung<br><br>
+<color=purple>Schuppenpanzer der Erleuchtung<color_default><br>
+Der Held erhält jeden Tag eine Menge Erfahrung, wenn er sowohl den Turban als auch den Schuppenpanzer trägt. Der Betrag entspricht der Anzahl der vergangen Tage * 10.

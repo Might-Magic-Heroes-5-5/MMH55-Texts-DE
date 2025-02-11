@@ -1,0 +1,1 @@
+﻿Steigert die Moral aller Kreaturen in der Armee des Helden um 2. Nekropolishelden erhalten außerdem +5 Angriff.<br><color_default>>Wenn ein guter Moraleffekt ausgelöst wird, wird der ATB-Wert des Ziels nach seiner Aktion auf 0,4 zurückgesetzt. Wenn ein schlechter Moral-Effekt ausgelöst wird, wird der ATB-Wert des Ziels vor seiner Aktion auf 0,6 zurückgesetzt.

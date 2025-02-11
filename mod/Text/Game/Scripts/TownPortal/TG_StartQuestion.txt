@@ -1,0 +1,22 @@
+﻿-------------------------------------------------------------------------------
+REGIERUNGSVERTRAG
+-------------------------------------------------------------------------------
+
+Vorteile:
+
+-Der Held sammelt täglich eine Menge Erfahrung, je nach Stadt- und Heldenstufe.
+-Die Stadtgebäude erhalten jede Woche einen Prozentsatz zusätzlicher Kreaturen, der Prozentsatz entspricht der Stufe des Helden, wenn die Stufe des Helden zu niedrig ist, werden keine zusätzlichen Kreaturen aufgenommen.
+-Der Held erhält verschiedene exklusive Boni aus den Gebäuden der Stadt.
+-Wenn die Stadt eine Magiergilde der Stufe 5 hat, kann der Held die Stadttor-Fähigkeit nutzen und sich in diese Stadt zurückteleportieren, der Held darf seinen Posten nicht verlassen und sich in andere Städte teleportieren.
+-Wenn der Held ein Artefakt der Legion hat, werden die Truppen stattdessen den Stadtgebäuden hinzugefügt und der Betrag wird so berechnet, als ob der Held 5 weitere Wissen hätte.
+
+Verpflichtungen:
+
+-Der Held muss in einem Radius von 50 Feldern um diese Stadt bleiben. Außerhalb dieses Radius verliert der Held immer mehr Bewegungspunkte, je weiter er sich entfernt, außerdem werden alle von der Stadt gewährten Boni entfernt. Gouverneure unter Lvl 5 verlieren ebenfalls einige Bewegungspunkte, wenn sie sich in der Nähe der Stadt aufhalten.
+-Der Held kann nicht mehr als 10 Drachenblutkristalle verwenden, überschüssige Kristalle werden nach dem Rücktritt funktionsfähig.
+-Der Held kann nur dann vom Vertrag zurücktreten, wenn er vor dem Tor dieser Stadt steht. Der Held ist verpflichtet, diese Stadt mindestens einen Monat lang zu regieren, sollte er sich zu einem früheren Zeitpunkt zum Rücktritt entschließen, muss er eine Strafe an die Einwohner der Stadt zahlen, die der Anzahl der Tage entspricht, an denen er nicht im Amt ist* seiner Stufe*100.
+
+-------------------------------------------------------------------------------
+
+OK = Den Vertrag unterzeichnen
+Abbrechen = Verweigern

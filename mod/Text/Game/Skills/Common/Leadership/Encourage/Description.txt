@@ -1,0 +1,1 @@
+﻿Der Held erwirbt die besondere Kampffähigkeit, seine Truppen auf dem Schlachtfeld aufzumuntern, so dass sie schneller wieder an die Reihe kommen. Der ATB-Wert des Ziels erhöht sich um 0,4, gekappt auf 1. Der ATB-Wert des Helden wird nach dem Einsatz auf 0,15 zurückgesetzt.

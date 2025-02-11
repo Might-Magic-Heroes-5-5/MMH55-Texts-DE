@@ -1,0 +1,2 @@
+﻿+5 Angriff<br><br><color=orange>
+Mantikore<color_default><br>Opfere dieses Artefakt in einem Tempel um einen Stapel Mantikore zu beschwören. Die Größe des Stapels ist gleich 2*Anzahl der vergangenen Wochen.

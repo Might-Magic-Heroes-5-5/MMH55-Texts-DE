@@ -1,0 +1,1 @@
+﻿Der Seher ist an der <color=white><value=qty> <value=type><color_default> interessiert, die Sie in Ihrem Besitz haben. Möchten Sie diese aushändigen?

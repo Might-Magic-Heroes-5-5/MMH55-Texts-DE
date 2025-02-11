@@ -1,0 +1,1 @@
+﻿Die ausgewählte eigene Einheit bekommt alle Eigenschaften der Untoten und die Fähigkeit des Lebensentzugs. Gedankenkontrollzauber, die auf das Ziel wirken, werden entfernt und das Ziel kann durch "Tote erwecken" dauerhaft wiederbelebt werden.

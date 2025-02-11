@@ -1,0 +1,1 @@
+﻿Diese Kreatur verringert den Angriff aller Nachbarn um -4 und die Verteidigung um -4 und ihre Moral um -2, unabhängig davon, wem sie gehören. Untote Kreaturen sind gegen diesen Effekt immun.

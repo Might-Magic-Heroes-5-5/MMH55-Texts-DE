@@ -1,0 +1,1 @@
+﻿Klasse: Dämonenlord<br>Spezialisierung: Läufer<br><br><body_bright>Die Bewegungspunkte des Helden werden sofort um 5% erhöht und um +1% pro vier Stufen. Die Kosten für den Zauber Teleport werden um die Hälfte reduziert.<br><color_default>Beginnt mit der Befähigung Mesiter der Flüche.

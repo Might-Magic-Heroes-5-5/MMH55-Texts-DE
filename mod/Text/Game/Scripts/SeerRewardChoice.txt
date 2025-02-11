@@ -1,0 +1,4 @@
+﻿Wählen Sie Ihre Belohnung
+
+OK = <value=qty_a> <value=type_a>
+Abbrechen = <value=qty_b> <value=type_b>

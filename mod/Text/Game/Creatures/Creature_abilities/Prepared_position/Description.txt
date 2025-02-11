@@ -1,0 +1,1 @@
+﻿Diese Kreatur hat einen Bonus von +5 auf ihre Verteidigung, solange sie während des Kampfes in ihrer Ausgangsposition steht.

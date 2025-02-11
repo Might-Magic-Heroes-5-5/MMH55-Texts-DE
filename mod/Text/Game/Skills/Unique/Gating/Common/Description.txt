@@ -1,0 +1,1 @@
+﻿Infernalischen Truppen erhalten die Fähigkeit, auf die infernalische Ebene zu wechseln, um Verstärkungen mit zurückzubringen. Jede Einheit kann diese Fähigkeit nur ein Mal pro Kampf einsetzen. Neu eingetroffene Kreaturen bilden ein Teil der herbeigerufenen Kreaturen, und die Verstärkungen verschwinden am Ende des Kampfes wieder. 

@@ -1,0 +1,1 @@
+﻿Alle Bastionskreaturen in der Armee des Barbaren bekommen zu Beginn des Kampfes willkürlich zwischen 50 und 100 Ragepunkte.

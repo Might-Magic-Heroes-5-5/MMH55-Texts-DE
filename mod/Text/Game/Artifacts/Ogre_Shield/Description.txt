@@ -1,0 +1,3 @@
+﻿+7 Verteidigung<br>
+-5% Initiative für alle Kreaturen in der Armee des Helden<br><br><color_default>
+Initiativwerte werden in der Praxis nicht durch %-Modifikatoren auf- oder abgerundet, so dass 10 Initiative zu 9,5 effektiver Initiative im Kampf führen kann.

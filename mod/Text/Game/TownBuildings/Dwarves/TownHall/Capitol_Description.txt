@@ -1,0 +1,3 @@
+﻿<color_default>Aufwertung des Rathauses.<br>
+<color_bright>Das Kapitol bringt Eurem Königreich 4000 Gold pro Tag ein.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt pro Tag einen Erfahrungs-Bonus von +100.

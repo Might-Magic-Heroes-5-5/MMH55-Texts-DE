@@ -1,0 +1,1 @@
+﻿Die Fähigkeit Pfeil verzaubern wirkt sich nun auch auf die Ballista aus. Alle Schüsse der Ballista tragen die Verzauberungen des Helden und entziehen ihm daher Mana.

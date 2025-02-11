@@ -1,0 +1,1 @@
+﻿Für Torwächter erhöht das Chaosportal die Anzahl der herbeigerufenen Kreaturen um 5%. (kumulativ mit mehreren Städten)<br><br>Dämonenlords erhalten +1 Verteidigung und Zauberer +1 Wissen (kumulierbar mit mehreren Städten und erfordert keinen Besuch der Stadt).<br><br>Wenn feindliche Helden die Stadt belagern, verringert sich deren Glück um -2.

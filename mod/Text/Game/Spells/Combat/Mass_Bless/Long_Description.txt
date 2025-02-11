@@ -1,0 +1,1 @@
+﻿Erhöht den minimalen Schaden aller befreundeten Ziele auf ihren maximalen Schaden. Wenn das Ziel unter dem Einfluss des Zaubers Schwäche steht, wird es gereinigt.<br><color_default>Die Steigerung entspricht Zauberkraft*1% + 40%, 50%, 60% oder 70%, je nach Meisterschaftsstufe. Der Effekt kann 100% nicht überschreiten.

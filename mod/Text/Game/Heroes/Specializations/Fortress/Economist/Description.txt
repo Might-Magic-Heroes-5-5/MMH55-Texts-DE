@@ -1,0 +1,1 @@
+﻿Gelehrter: Der Held beginnt mit +1 Wissen und erhöht alle 6 Stufen ein zufälliges Primärattribut.

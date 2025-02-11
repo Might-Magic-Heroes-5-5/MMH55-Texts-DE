@@ -1,0 +1,1 @@
+﻿Dekan: Der Held hat dauerhaft +1 Moral und zu Beginn jeder Woche werden zusätzliche Gewittertitane, Titane und Kolosse für die Rekrutierung in allen Akademiestädten zur Verfügung stehen. Die Anzahl entspricht 0.04*Heldenstufe. Es gibt keine zusätzlichen Kreaturen vor Level 13.

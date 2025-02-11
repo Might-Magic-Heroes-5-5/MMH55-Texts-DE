@@ -1,0 +1,1 @@
+﻿Der Held bekommt zu Beginn eines Kampfes einen Bonus von +0.25% auf seine Initiative, damit er/sie früher am Zug ist.

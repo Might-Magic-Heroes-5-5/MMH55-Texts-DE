@@ -1,0 +1,1 @@
+﻿Fanatiker: Der Held erhält einen permanenten Angriffsbonus von +1 und jede getötete feindliche Truppe (auch beschworene Truppen werden berücksichtigt) erhöht den Angriff aller Kreaturen in seiner Armee um +1 für jeweils 9 Stufen des Helden.

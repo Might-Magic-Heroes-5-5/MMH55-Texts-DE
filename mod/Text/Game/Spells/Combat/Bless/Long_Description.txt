@@ -1,0 +1,1 @@
+﻿Erhöht den minimalen Schaden des Ziels in den Bereich seines maximalen Schadens. Wenn das Ziel unter dem Einfluss des Zaubers Schwäche steht, wird es gereinigt.<br><color_default>Die Erhöhung entspricht Zauberkraft*1% + 40%, 50%, 60% oder 70%, abhängig von der Stufe der Beherrschung. Der Effekt kann 100% nicht überschreiten.

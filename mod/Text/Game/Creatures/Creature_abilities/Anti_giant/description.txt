@@ -1,0 +1,1 @@
+﻿Die Angriffs- und Verteidigungswerte dieser Kreatur erhöhen sich vorübergehend um +6, wenn das Ziel eine große Kreatur ist.

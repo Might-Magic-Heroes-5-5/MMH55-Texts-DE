@@ -1,0 +1,1 @@
+﻿Klasse: Zauberer<br>Spezialisierung: Forscher<br><br><body_bright>Das Wissen des Helden erhöht sich ebenfalls um +1 pro 7 Erfahrungsstufen und alle Erfahrung, die ein Held nach einer Schlacht gewinnt, wird um 2% pro Heldenstufe erhöht.<br><color_default>Beginnt mit der Befähigung Gelehrter.

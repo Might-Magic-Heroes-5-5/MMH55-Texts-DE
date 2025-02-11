@@ -1,0 +1,1 @@
+﻿Der Schaden von Blitzzaubern wird in Kämpfen um 10% erhöht. Die Anzahl der beschworenen Luftelementare erhöht sich um 50%.

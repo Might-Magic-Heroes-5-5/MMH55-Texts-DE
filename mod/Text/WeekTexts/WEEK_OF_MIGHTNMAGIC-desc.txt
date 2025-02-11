@@ -1,0 +1,1 @@
+﻿Der physische Schaden wird um 10 % erhöht und die Zauberkosten während des Kampfes werden halbiert.

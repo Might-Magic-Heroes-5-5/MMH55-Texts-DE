@@ -1,0 +1,3 @@
+﻿<color_default>Aufwertung der Stadtmauer.<br>
+<color_bright>Die Zitadelle steigert die normale Vermehrungsrate der Kreaturen um 50% und legt einen Befestigungsgraben mit Hindernissen sowie einen Burgfried an.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Verteidigungsbonus von +2.  

@@ -1,0 +1,2 @@
+﻿+1 Schaden für alle Kreaturen in der Armee des Helden<br><br><color=orange>
+Wölfe<color_default><br>Opfere dieses Artefakt in einem Tempel und es wird ein Stapel von Wölfen beschworen. Die Größe des Stapels ist gleich 6*Anzahl der vergangenen Wochen.

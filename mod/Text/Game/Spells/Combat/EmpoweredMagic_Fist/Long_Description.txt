@@ -1,0 +1,1 @@
+﻿Beschwört eine magische Faust, die der ausgewählten Feindeinheit nicht-elementaren physikalischen Schaden zufügt. Dieser Zauber ignoriert jede Magie-Resistenz und jeden Schutz vor Magie.

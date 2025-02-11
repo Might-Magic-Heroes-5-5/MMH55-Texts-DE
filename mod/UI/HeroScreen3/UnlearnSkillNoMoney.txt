@@ -1,0 +1,1 @@
+﻿Tut mir leid, aber ich sehe, dass du kein <value=price> Gold hast, um <value=skill_name> aus deinem Gedächtnis zu löschen!

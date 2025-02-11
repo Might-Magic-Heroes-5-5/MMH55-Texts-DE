@@ -1,0 +1,1 @@
+﻿<color=red>Stadttor fehlgeschlagen!, stellen Sie sicher, dass in der Stadtgarnison Platz ist.

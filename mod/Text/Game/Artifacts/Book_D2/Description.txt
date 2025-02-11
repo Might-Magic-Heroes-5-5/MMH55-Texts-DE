@@ -1,0 +1,3 @@
+﻿+1 Verteidigung<br>
++1250 Erfahrung<br><br>
+<color=7F38EC>Fertigkeitsbuch<color_default><br>Der Held braucht einige Zeit, um diesen Gegenstand zu studieren und das darin enthaltene Wissen dauerhaft zu erlangen. Zu Beginn der nächsten Woche verschwindet der Gegenstand aus dem Rucksack und der Bonus wird permanent angewendet.

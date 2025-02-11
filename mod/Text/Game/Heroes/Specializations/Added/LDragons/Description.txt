@@ -1,0 +1,1 @@
+﻿Herr der Erdbeben: Alle Feuerdrachen, Magma-Drachen und Lava-Drachen in der Armee des Helden können sofort handeln, wenn der Kampf beginnt. Zu Beginn jeder Woche werden weitere dieser Kreaturen für die Rekrutierung in allen Zwergenstädten zur Verfügung stehen. Die Anzahl entspricht 0.04*Heldenlevel. Es gibt keine zusätzlichen Kreaturen vor Level 13.

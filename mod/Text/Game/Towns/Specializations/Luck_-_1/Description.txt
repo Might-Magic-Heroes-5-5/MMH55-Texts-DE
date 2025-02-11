@@ -1,0 +1,1 @@
+﻿Alle Feinde, welche diese Stadt angreifen, bekommen einen Abzug von -1 auf ihr Glück.

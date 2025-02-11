@@ -1,0 +1,6 @@
+﻿<color=red>Alptraummodus<color_default><br>
+* KI-Helden können nicht geplündert werden.
+* Alle KI-Spieler werden sich gegen den menschlichen Spieler zusammentun, die KI-Berechnungszeit wird auf Karten mit mehreren KI-Spielern reduziert.
+* Wenn es mehrere menschliche Spieler gibt, werden sie sich gegen die KI-Spieler zusammentun.
+* KI-Helden fliehen nie aus dem Kampf und kämpfen bis zum Tod.
+* Kampfstätten haben +10% Wachstum.

@@ -1,0 +1,2 @@
+﻿+5 Zauberkraft<br>
++5 Mana nach jedem Kampf

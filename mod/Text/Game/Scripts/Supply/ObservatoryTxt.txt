@@ -1,0 +1,1 @@
+﻿Deckt die umliegenden Ländereien auf und stellt einmal pro Tag das Mana des Helden wieder her.

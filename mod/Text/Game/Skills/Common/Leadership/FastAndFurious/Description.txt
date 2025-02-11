@@ -1,0 +1,1 @@
+﻿Die Schnelligkeit aller Einheiten des Helden wird um +1 im Kampf gesteigert.

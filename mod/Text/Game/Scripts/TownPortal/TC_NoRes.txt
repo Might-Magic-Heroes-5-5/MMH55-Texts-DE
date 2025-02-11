@@ -1,0 +1,1 @@
+﻿<color=yellow>Ihr Held hat nicht genügend Ressourcen.

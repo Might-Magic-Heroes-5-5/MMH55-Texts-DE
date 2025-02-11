@@ -1,0 +1,1 @@
+﻿Klasse: Hexenmeister<br>Spezialisierung: Magie der sieben Städte<br><br><body_bright>Der Held startet mit Beschwörender Magie und das Wissen des Helden erhöht sich ebenfalls um +1 pro 7 Erfahrungsstufen und alle Erfahrung, die ein Held nach einer Schlacht gewinnt, wird um 2% pro Heldenstufe erhöht.<br><color_default>Beginnt mit der Befähigung Meister der Anrufung.

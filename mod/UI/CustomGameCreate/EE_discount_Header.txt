@@ -1,0 +1,1 @@
+﻿<value_name>KI Vorteil: <value_value><value=EE_discount> Tage

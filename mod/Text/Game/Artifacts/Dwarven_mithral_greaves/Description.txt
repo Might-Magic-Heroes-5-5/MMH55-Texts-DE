@@ -1,0 +1,8 @@
+﻿+3 Verteidigung<br>
++3 Zauberkraft<br>
+Immunität aller Kreaturen gegen den Zauber Verlangsamung<br>
+<br><color=purple>
+Rüstung der Zwergenkönige<color_default><br>
++4 Verteidigung (2/4)<br>
++8 Verteidigung (4/4)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.

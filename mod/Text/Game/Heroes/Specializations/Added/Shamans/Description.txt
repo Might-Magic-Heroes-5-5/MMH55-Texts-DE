@@ -1,0 +1,1 @@
+﻿Traumwanderer: Zu Beginn jeder Woche treten zusätzliche Sonnentöchter, Himmelstöchter oder Erdtöchter in die Armee des Helden ein (vorausgesetzt, dass einige dieser Kreaturen anwesend sind). Der Betrag entspricht 0,2*Heldenstufe. Vor Stufe 3 werden keine zusätzlichen Kreaturen beitreten.

@@ -1,0 +1,1 @@
+﻿Verringert die Geschwindigkeit von allen gegnerischen Kreaturen um -1. Gegnerische Kreaturen, die den Moralcheck nicht bestehen bekommen eine -20% Strafe auf ihren Angriff und Verteidgung bis zum Start des nächsten Zuges. Todesritter, Räuber und Nekromanten haben ihre Zauberkraft um +4 erhöht.

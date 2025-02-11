@@ -1,0 +1,1 @@
+﻿Alle verbündeten Kreaturen, die auf Feldern neben dieser Kreatur stehen, werden nie eine negative Moral haben.

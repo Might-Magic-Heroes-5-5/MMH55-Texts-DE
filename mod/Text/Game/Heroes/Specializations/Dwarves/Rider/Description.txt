@@ -1,0 +1,1 @@
+﻿Reiter: Zu Beginn des Kampfes wird der ATB-Wert für alle verbündeten Bärenreiter, Schwarzbärenreiter und Weißbärenreiter zurückgesetzt, so dass sie sofort handeln können. Alle Bärenreiter und ihre Aufwertungen in der Armee des Helden gewinnen +1 zu ihrem Angriff und ihrer Verteidigung für alle zwei Stufen des Helden, beginnend mit der ersten Stufe.

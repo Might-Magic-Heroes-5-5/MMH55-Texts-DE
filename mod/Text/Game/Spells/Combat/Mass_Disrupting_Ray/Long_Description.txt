@@ -1,0 +1,1 @@
+﻿Zerstört die Rüstung des Ziels und reduziert somit dessen Verteidigung und fügt eine geringe Menge an magischem Nicht-Elementarschaden zu. Der Schaden ist gleich der Heldenstufe * 10. Wenn der Zauber von einer Kreatur gewirkt wird, zählt die Stufe als Level. Aufeinanderfolgende Wirkungen senken die Verteidigung weiter, aber nicht unter Null. Dieser Zauber wirkt flächendeckend.

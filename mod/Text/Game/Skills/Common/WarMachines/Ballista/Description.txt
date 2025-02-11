@@ -1,0 +1,2 @@
+﻿Ermöglicht die manuelle Steuerung der Balliste und die Balliste erhält einen zusätzlichen Schuss.<br><color_default>
+Stellt die Balliste nach dem Kampf wieder her, wenn sie zerstört wurde. Die Trefferpunkte der Ballista werden mit 3 multipliziert.

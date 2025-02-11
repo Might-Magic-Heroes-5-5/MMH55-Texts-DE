@@ -1,0 +1,1 @@
+﻿Giftmeister: Feindliche Einheiten können bereits vergiftet in den Kampf eintreten, die Chancen richten sich nach der Stufe des Helden. Die Chancen liegen bei 10%+Stufe*1%, für jede gegnerische Einheit. Das Mana des Helden wird dabei nicht verbraucht. Der magische Schutz der Ziele reduziert den Verfallseffekt, aber der magische Spiegel funktioniert nicht.

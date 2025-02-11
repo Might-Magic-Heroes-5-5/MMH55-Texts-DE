@@ -1,0 +1,1 @@
+﻿Klasse: Zauberer<br>Spezialisierung: Flammenwerfer<br><br><body_bright>Wirksame Zauberkraft des Helden wird erhöht, wenn man Feuerball oder Aufgeladenen Feuerball wirkt. Die Erhöhung entspricht der Heldenstufe/3.<br><color_default>Beginnt mit der Befähigung Meister des Feuers.

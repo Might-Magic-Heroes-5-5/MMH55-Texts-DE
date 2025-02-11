@@ -1,0 +1,1 @@
+﻿<color=yellow>Sie haben <value=amount> von <value=total> Obelisken entziffert!

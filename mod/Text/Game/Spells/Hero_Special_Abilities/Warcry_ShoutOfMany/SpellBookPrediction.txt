@@ -1,0 +1,1 @@
+﻿Zauberschaden: <value=damage>.<br>Erhöht die Ragepunkte der Kreaturen um <value=army_rp>.

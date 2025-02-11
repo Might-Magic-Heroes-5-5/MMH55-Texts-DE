@@ -1,0 +1,1 @@
+﻿Erhöht das normale Mana-Maximum um 40%. Die Manaregenerationsrate wird nicht erhöht.

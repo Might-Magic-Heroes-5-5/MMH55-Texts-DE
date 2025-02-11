@@ -1,0 +1,1 @@
+﻿Alle Truppen des Helden gewinnen +3 Schnelligkeit während der Belagerung einer feindlichen Stadt.

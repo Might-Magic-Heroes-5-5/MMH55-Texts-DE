@@ -1,0 +1,1 @@
+﻿Das ist eine MMH5.5 zufällig generierte Karte basierend auf der Vorlage <value=template> erstellt durch den Advanced RMG v2.6 mit folgenden Optionen: <value=mapsize> Größe, <value=underground>, <value=water>, mit <value=monsterstrenght> Monstern. Die Karte ist für <value=playerscount> Spieler, Startwert ist <value=startseed>

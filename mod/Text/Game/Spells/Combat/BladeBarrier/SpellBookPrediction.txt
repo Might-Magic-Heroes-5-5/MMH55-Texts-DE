@@ -1,0 +1,1 @@
+﻿Lebenspunkte jedes Abschnitts:<value=health><br>Lebensdauer: <value=duration> Züge.

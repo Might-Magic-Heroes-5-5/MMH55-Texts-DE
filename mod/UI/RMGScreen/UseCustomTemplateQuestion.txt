@@ -1,0 +1,9 @@
+﻿Schnelle Tipps:
+
+-Nur MMH55_Utility.exe und MMH55_Editor.exe zum Erstellen von Karten verwenden.
+-Halten Sie sich an die in der Vorlage angegebene Kartengröße und Spieleranzahl.
+-MMH55_utility.exe erzwingt eine größere Größe für Wasserkarten - das funktioniert gut.
+-ARMG-Karten funktionieren nicht im LAN oder Hotseat, wenn die Skripte nicht aktiviert sind.
+-Mapmixer-Programm verwenden, um Skripte zu aktivieren.
+-Wasserkarten mit Mapmixer bearbeiten, sonst sind die Gewässer sehr langweilig.
+-Visualisierungen für alle Vorlagen sind im .pdf-Handbuch zu finden.

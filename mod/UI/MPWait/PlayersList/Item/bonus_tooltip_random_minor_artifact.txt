@@ -1,0 +1,3 @@
+﻿<color=yellow>Standardmodus<color_default><br>
+* KI-Spieler sind keine Verbündeten, aber ihre gegenseitige Aggression nimmt auf höheren Schwierigkeitsgraden ab.
+* KI-Helden dürfen aus dem Kampf fliehen.

@@ -1,0 +1,1 @@
+﻿Verdoppelt die wissensbasierte Manaregeneration des Helden.<br><color_default>Manaregeneration durch Artefakte, Fähigkeiten oder Spezialisierungen wird nicht verdoppelt.

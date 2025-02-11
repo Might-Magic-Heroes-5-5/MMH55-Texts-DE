@@ -1,0 +1,1 @@
+﻿<color=yellow>Ihre Verteidigung wird dauerhaft um +<value=param> erhöht.

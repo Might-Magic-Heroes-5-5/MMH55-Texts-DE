@@ -1,0 +1,1 @@
+﻿Während des Angriffs beschädigt diese Kreatur nicht nur das Ziel, sondern auch jede andere Einheit, die direkt dahinter steht. Die sekundären Ziele erleiden 50% weniger Schaden.

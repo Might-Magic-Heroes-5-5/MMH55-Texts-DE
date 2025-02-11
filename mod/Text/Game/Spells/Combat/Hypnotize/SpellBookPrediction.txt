@@ -1,0 +1,1 @@
+﻿Initiative des Ziels sinkt um <value=enchant>%. Dauer: <value=duration> Züge. Funktioniert nicht gegen Kreaturen der 7. Stufe.

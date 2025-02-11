@@ -1,0 +1,4 @@
+﻿+4 Angriff und unbegrenzte Munition für alle schießenden Kreaturen in der Armee des Helden<br><br><color=purple>
+Der Traum des Bogenschützen<color_default><br>
++1 Glück (2/2)<br>
+*Der Setbonus wird nach dem Schließen des Inventarbildschirms angewendet.

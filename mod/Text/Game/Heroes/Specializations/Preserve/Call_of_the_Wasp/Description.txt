@@ -1,0 +1,1 @@
+﻿Schwarmkönigin: Der Zauber Wespenschwarm ist je nach Heldenstufe wirksamer und der Held wird mit Stufe 15 den Zauber Bienenstock erlernen. Der Schaden wird pro Heldenstufe um 5% erhöht. Die Grundreduzierung des ATB-Wertes wird mit (1+0.02*Stufe/3) multipliziert.

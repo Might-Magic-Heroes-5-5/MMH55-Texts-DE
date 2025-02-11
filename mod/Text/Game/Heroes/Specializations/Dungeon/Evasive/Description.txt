@@ -1,0 +1,1 @@
+﻿Schattentänzer: Weniger Schaden wird durch Fernkampfangriffe erlitten, die Reduzierung des Fernkampfschadens beträgt 15% + 0.5% pro Heldenstufe.

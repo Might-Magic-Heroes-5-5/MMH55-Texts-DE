@@ -1,0 +1,1 @@
+﻿Die Verteidigung aller Kreaturen in der Armee des Helden wird erhöht, wenn sie nahe beieinander auf dem Schlachtfeld stehen.<br><color_default>Die Stärke des Bonus hängt von der Stärke der Kreaturen ab (schwache Kreaturen werden durch mächtige besser verstärkt) und kann maximal +10 erreichen.

@@ -1,0 +1,1 @@
+﻿Wollen Sie diese Stadt konvertieren?<br>Kosten = Gold: <value=gold>, Holz: <value=wood>, Eisen: <value=ore>, Quecksilber: <value=mercury>, Kristall: <value=crystal>, Schwefel: <value=crystal>,Edelsteine: <value=gem><br><br>WARNUNG: Entfernen Sie die Armeen aus der Garnison oder sie werden sterben!

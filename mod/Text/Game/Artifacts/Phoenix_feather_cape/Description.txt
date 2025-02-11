@@ -1,0 +1,3 @@
+﻿+20% Schaden für Feuerzauber<br>
++2 Mana pro Tag wenn das Artefakt ununterbrochen getragen wird<br><color_default>
+Die Schadenserhöhung betrifft Feuerball, Armageddon, Feuerwall und Feuerfalle.

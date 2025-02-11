@@ -1,0 +1,2 @@
+﻿<color_default>Eine Aufwertung der Jägerhütten.<br>
+<color_bright>Die Jägerloge ermöglicht es Ihnen, Meisterjäger und Arkane Schützen zu rekrutieren.

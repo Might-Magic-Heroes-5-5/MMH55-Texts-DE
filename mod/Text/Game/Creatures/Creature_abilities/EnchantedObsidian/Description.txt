@@ -1,0 +1,1 @@
+﻿Diese Kreatur ist absolut immun gegen alle Zauber, außer denen, die Schaden zufügen. Jeder Zauber, der magischen Schaden verursacht, heilt 25% seines Schadens in HP (mit Wiederbelebung).

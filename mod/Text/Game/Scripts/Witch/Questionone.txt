@@ -1,0 +1,1 @@
+﻿Eine alte Hexe, die in einer fremden Hütte lebt, empfängt Sie und interessiert sich für Ihre Suche, für ihre eigenen unergründlichen Zwecke schlägt sie vor, Ihnen <value=mastery> <value=skill> beizubringen. Sind Sie einverstanden?

@@ -1,0 +1,1 @@
+﻿Diese Kreatur ist im Nahkampf effektiver und fügt nur die Hälfte ihres Schadens in Distanzangriffen zu (Halte die Strg-Taste gedrückt, um Gegner im Nahkampf anzugreifen).

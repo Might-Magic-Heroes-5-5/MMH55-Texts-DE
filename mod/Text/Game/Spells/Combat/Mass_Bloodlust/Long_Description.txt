@@ -1,0 +1,1 @@
+﻿Verbessert den Angriff aller befreundeten Kreaturen um einen Betrag, der von der Zauberkraft abhängt. Wenn die Ziele unter dem Einfluss des Zaubers Leiden stehen, bleiben beide Effekte aktiv und der Unterschied in der Stärke der Zaubernden bestimmt das Ergebnis.

@@ -1,0 +1,2 @@
+﻿Die Militärakademie unterstützt die besondere Befähigung "Ausbildung" und gestattet die Ausbildung von weiteren 13 Kreaturen pro Woche.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Angriffs-Bonus von +2.

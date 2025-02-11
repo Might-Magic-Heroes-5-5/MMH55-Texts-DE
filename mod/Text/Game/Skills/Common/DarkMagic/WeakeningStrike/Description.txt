@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Wissen und ein Herz der Finsternis, ein Artefakt, mit dem der Held nach Kämpfen verstorbene Lebewesen wiederbeleben kann.<br><color_default>Nur Nekropolis- und Akademiehelden erhalten den Wissensbonus.

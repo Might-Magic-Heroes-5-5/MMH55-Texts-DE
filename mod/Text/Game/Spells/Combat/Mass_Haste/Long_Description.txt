@@ -1,0 +1,1 @@
+﻿Bewirkt, dass alle verbündeten Einheiten häufiger im Kampf agieren. Wenn das Ziel unter dem Einfluss des Zaubers Verlangsamung steht, bleiben beide Effekte aktiv und der Unterschied in der Stärke der Zaubernden bestimmt das Ergebnis.

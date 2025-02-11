@@ -1,0 +1,1 @@
+﻿Die ausgewählte befreundete Bastionskreatur erhält eine Anzahl von Ragepunkten, die 15 * Heldenstufe entspricht.

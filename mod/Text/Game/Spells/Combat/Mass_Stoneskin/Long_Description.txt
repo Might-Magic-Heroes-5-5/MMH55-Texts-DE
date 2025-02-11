@@ -1,0 +1,1 @@
+﻿Steigert den Verteidigungswert der ausgewählten eigenen Einheit. Die Zauberkraft des Helden bestimmt die Dauer der Wirkung.

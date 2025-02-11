@@ -1,0 +1,4 @@
+﻿Die Praxis des Gedächtnismentors ist in diesen Ländern derzeit verboten, aber der Magier ist immer noch bereit, Ihnen eine magische Grundausbildung zu geben.
+ 
+OK = +2 Zauberkraft
+Abbrechen = +2 Wissen

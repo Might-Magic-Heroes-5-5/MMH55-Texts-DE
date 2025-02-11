@@ -1,0 +1,1 @@
+﻿Magische Schriftrolle von <value=spell_name>

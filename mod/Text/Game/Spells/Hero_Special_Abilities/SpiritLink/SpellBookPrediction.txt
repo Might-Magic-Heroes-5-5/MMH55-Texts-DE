@@ -1,0 +1,1 @@
+﻿Gewinnt 1 Mana für jeweils <value=enchant> Schadenspunkte.

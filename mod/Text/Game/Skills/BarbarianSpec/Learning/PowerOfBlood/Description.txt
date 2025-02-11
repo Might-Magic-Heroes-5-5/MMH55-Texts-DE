@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Kriegsruf "Ruf des Blutes" und jedes Mal, wenn eine Kreatur in der Armee des Helden Rage bekommt, bekommt sie 33% mehr Rage als gewöhnlich. Wenn eine Kreatur jedoch Rage verliert, verliert sie ebenfalls 33% mehr Rage als gewöhnlich.

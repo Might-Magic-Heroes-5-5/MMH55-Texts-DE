@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Verteidigung und steigert die Verteidigung um 1 für jeweils 10 Stufen. Außerdem erhält der Held für den nächsten Kampf einen einmaligen +10% HP-Bonus.

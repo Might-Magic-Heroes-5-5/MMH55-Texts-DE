@@ -1,0 +1,1 @@
+﻿Einmal pro Kampf kann diese Kreatur jeden ausgewählten Feind auf dem Spielfeld angreifen, ihm 20% mehr Schaden zufügen und ihn mit dem "Zeichen des Feuers" (aktivierte Fähigkeit) belegen.

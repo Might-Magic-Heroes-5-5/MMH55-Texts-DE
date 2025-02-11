@@ -1,0 +1,3 @@
+﻿Möchten Sie gemischte neutrale Stapel erzeugen, bevor das Spiel beginnt?
+
+(WARNUNG: Die Generierung wird unabhängig von der Größe der Karte fortgesetzt und kann das Spiel für Minuten einfrieren)

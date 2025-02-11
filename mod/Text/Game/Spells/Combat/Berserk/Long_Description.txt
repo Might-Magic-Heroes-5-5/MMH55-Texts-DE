@@ -1,0 +1,1 @@
+﻿Bringt die Ziel-Kreaturen zur Raserei. Kreaturen unter dem Einfluss dieses Zaubers betrachten alle anderen Kreaturen und Kriegsgerät als persönliche Feinde und greifen die nächste Einheit mit doppelter Wut an.<br><color_default>Der Zauber funktioniert nicht gegen untote, elementare und mechanische Einheiten.

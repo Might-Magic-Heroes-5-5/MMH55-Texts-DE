@@ -1,0 +1,1 @@
+﻿Wenn diese Kreatur einem Nahkampfangriff ausgesetzt ist, reflektiert ihr Feuerschild 40% des erlittenen Schadens an den Angreifer zurück, unabhängig davon, ob er Gegenwehr leistet kann.

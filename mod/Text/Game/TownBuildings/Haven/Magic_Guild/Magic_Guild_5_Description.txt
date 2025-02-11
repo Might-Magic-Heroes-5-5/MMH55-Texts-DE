@@ -1,0 +1,4 @@
+﻿<color_bright>Ermöglicht einem Helden in der Stadt, die dortigen Zauber zu lernen. Lehrt 2 Zauber der fünften Stufe.<br><br>
+<color=green>Stadttor<color_default><br>Erlaubt allen Helden, sich von jedem Ort auf der Karte in diese Stadt zu teleportieren.<br><br>
+<color=orange>Wasserelementare<color_default><br>Dieses Gebäude kann Wasserelementare beschwören und sie wöchentlich der Stadtgarnison hinzufügen. Die Menge der Wasserelementare hängt von der Menge der Drachenblutkristalle ab, die die Helden gesammelt haben (A), und von der Erfahrungsstufe dieser Helden (B). Formel = Wurzel(Summe(A*B))/12 * (3+Gildenstufe), wobei die Summe(A*B) 600 nicht überschreiten darf. Der Betrag ist Null, wenn keine Kristalle gesammelt wurden.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Zauberkraft-Bonus von +5.

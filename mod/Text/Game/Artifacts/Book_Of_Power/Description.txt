@@ -1,0 +1,7 @@
+﻿+1 Zauberkraft<br>
++1 Wissen<br>
+Hat der Held die Befähigung Magische Einsicht, kann er außerdem Zauber der vierten Stufe lernen<color_default><br>
++2 Zauberkraft, wenn der Held Geübte Erleuchtung hat<br>
++2 Wissen, wenn der Held Geübte Erleuchtung hat<br>
++3 Zauberkraft, wenn der Held Meisterliche Erleuchtung hat<br>
++3 Wissen, wenn der Held Meisterliche Erleuchtung hat

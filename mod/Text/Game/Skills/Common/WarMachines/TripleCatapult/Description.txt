@@ -1,0 +1,1 @@
+﻿Das Katapult erhält zwei zusätzliche Schüsse, die 3 aufeinanderfolgende Schüsse in einer Runde abgeben. Der Held erhält außerdem die Angriffsboni des Munitionswagens, die normalerweise den Fernkampfeinheiten der Armee gewährt werden.

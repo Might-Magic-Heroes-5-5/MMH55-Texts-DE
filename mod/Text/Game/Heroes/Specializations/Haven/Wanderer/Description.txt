@@ -1,0 +1,1 @@
+﻿Entdecker: Die Bewegungspunkte des Helden werden für jede zweite Heldenstufe um 1% erhöht. Außerdem erhält der Held nach jedem Kampf +250 Erfahrung.

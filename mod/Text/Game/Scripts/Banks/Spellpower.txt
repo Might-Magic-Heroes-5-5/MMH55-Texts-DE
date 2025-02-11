@@ -1,0 +1,1 @@
+﻿<color=yellow>Ihre Zauberkraft wird dauerhaft um +<value=param> erhöht.

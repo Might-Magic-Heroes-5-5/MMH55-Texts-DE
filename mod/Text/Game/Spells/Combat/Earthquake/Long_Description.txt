@@ -1,0 +1,1 @@
+﻿Fügt Stadtmauern und Türmen während einer Belagerung schweren Schaden zu und fügt allen Kreaturen (Freund und Feind) eine geringe Menge an körperlichem Schaden zu, auch wenn er außerhalb einer Belagerungsschlacht gewirkt wird. Der Schaden an Kreaturen entspricht 20 + (2 * Zauberkraft), unabhängig von der Fähigkeitsstufe.

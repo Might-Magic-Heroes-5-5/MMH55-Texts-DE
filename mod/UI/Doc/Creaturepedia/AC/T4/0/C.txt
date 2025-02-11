@@ -1,0 +1,1 @@
+﻿Diese Kreatur kann eine Reihe von magischen Zaubern verwenden, die denen der Helden ähneln. Die Manareserve ist begrenzt, wird aber zu Beginn des Kampfes immer auf das Maximum gesetzt. Die Zauberkraft hängt von der Anzahl der Kreaturen ab (aktivierte Fähigkeit).<br><br><color_bright>~Zauber~<br>﻿Zornesfaust (Einfach)<br>﻿Reinigung (Geübt)

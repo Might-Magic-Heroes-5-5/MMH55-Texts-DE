@@ -1,0 +1,2 @@
+﻿Unterstützt die Spezialfähigkeit Mal des Rächers. Ermöglicht die Auswahl eines Erzfeindes.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Angriffs-Bonus von +1.

@@ -1,0 +1,1 @@
+﻿Die ausgewählte Kreatur hat die Chance, den Feind einmal mit ihrem normalen Angriff zu betäuben. Wenn die Betäubung fehlschlägt, bleibt die Rune so lange aktiv, bis sie erfolgreich ist. Der Effekt ist derselbe wie bei der Fähigkeit Schildschlagen, wirkt aber auch aus der Ferne und wird von der Fähigkeit Soldatenglück beeinflusst.

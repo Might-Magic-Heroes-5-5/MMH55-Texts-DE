@@ -1,0 +1,1 @@
+﻿Der Held ruft die Kräfte der Natur an, um den Boden zu beeinflussen, auf dem die feindlichen Kreaturen wandeln. Jedes Mal, wenn sich eine nicht fliegende gegnerische Kreatur bewegt, erhält sie Schaden in Höhe der Heldenstufe * 10.<br><color_default>Der Schaden erfolgt nicht pro Feld und funktioniert nicht, wenn sich die Kreatur nur dreht. 

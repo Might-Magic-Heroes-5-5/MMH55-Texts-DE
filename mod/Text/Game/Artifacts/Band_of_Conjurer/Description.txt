@@ -1,0 +1,3 @@
+﻿+2 Zauberkraft<br>
++4 Erhöht beim Wirken dieses Zaubers die Zauberkraft um +4<br><color_default>
+Stattet den Träger mit dem Zauber Elementare Beschwören aus, wenn er ihn nicht schon erlernt hat.

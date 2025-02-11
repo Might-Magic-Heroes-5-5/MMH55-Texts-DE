@@ -1,0 +1,1 @@
+﻿Ein mächtiges Gebrüll des Helden steigert die Rage aller Orks in seiner Armee erheblich und hat eine Chance, den anvisierten Feind in Panik davonlaufen zu lassen und seinen ATB-Wert auf Null zu setzen. Die Chance, das Ziel zu erschrecken, beträgt 50% + 5% * (Heldenstufe - Kreaturstufe). Dieser Kriegsschrei funktioniert nicht bei Kreaturen, die gegen Gedankenkontrolle immun sind.

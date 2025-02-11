@@ -1,0 +1,1 @@
+﻿Klasse: Häuptling<br>Spezialisierung: Aggressor<br><br><body_bright>Der Held beginnt mit einer Angriffsfähigkeit von +1 und erhöht sie alle 7 Stufen um +1.<br><br><color=orange>Veteran<color_default><br>Beginnt mit der Fähigkeit Einfache Erleuchtung.

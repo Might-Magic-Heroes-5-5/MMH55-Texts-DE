@@ -1,0 +1,1 @@
+﻿Zeige Partien im Schachmodus, die voll sind, aber beobachtet werden können.

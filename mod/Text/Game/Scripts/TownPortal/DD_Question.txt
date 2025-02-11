@@ -1,0 +1,8 @@
+﻿Das Dimensionsportal ermöglicht es dir, jede deiner Städte zu besuchen, ohne den Standort des Helden zu ändern. Wenn die Stadt eine Magiergilde hat, wird das Mana sofort wiederhergestellt.
+-------------------------------------------------------------------------------
+
+OK = Stadt besuchen und Mana wiederherstellen
+Abbrechen = Nur Mana wiederherstellen
+
+-------------------------------------------------------------------------------
+Um den Besuch zu beenden, gehen Sie ein Feld von der Tür weg oder besuchen Sie das Objekt erneut. Der Besuch wird beendet, wenn der Held versucht, sich in die Garnison der Stadt zu begeben oder ein feindlicher Held sich in einem Radius von 8 Feldern um den Helden oder die zu besuchende Stadt nähert.

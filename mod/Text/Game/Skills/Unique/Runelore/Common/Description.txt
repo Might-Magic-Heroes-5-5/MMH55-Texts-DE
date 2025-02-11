@@ -1,0 +1,1 @@
+﻿Ermöglicht, dass eigene Einheiten auf dem Schlachtfeld mit Runen belegt werden können, was ihnen vorübergehend neue Fähigkeiten und Merkmale verleiht. Die Stufe dieser Fertigkeit bestimmt das Level der benutzbaren Runen.

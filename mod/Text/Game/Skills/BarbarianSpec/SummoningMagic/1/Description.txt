@@ -1,0 +1,1 @@
+﻿Die Meisterschaftsstufe aller gegnerischen Zauber der beschwörenden Magie des 1. bis 4. Kreises wird um 1 herabgesetzt (Meisterliche zu Geübte, etc.). Die Zauberkraft wird ebenfalls um 25% gesenkt, und zwar für jede Stufe, in der ein Zauber unter die Stufe Null fällt.

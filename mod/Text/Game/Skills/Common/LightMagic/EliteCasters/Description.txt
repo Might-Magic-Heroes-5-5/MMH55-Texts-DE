@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Wissen und alle Zaubernden in der Armee des Helden verwenden nur die Hälfte des benötigten Manas um Zauber zu wirken.

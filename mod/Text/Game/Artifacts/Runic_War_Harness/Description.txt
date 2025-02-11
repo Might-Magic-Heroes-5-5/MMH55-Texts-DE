@@ -1,0 +1,2 @@
+﻿+5 Verteidigung<br>
++5 Mana pro Tag, wenn das Artefakt ununterbrochen getragen wird

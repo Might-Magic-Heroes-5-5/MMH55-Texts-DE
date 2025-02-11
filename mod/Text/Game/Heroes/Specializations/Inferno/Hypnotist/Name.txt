@@ -1,0 +1,1 @@
+﻿Klasse: Zauberer<br>Spezialisierung: Geisträuber<br><br><body_bright>Der Held erhält +1 Zauberkraft für alle 7 Stufen und der Zauber Verwirrung hat den zusätzlichen Effekt, dass das Mana des Ziels um einen Punkt pro Heldenstufe verringert wird.<br><color_default>Beginnt mit der Befähigung Meister der Gedanken.

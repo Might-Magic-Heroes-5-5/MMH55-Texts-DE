@@ -1,0 +1,8 @@
+﻿<color=green>Gelegenheitsmodus<br><color_default>
+* Die KI erhält keine zusätzlichen Kreaturen oder Gold, um Verluste im "schnellen Kampf" zu reduzieren.
+* Die Startressourcen der KI werden auf allen Schwierigkeitsgraden um 10000/5/10 reduziert.
+* KI-Spieler sind keine Verbündeten, aber ihre gegenseitige Aggression nimmt auf höheren Schwierigkeitsgraden ab.
+* KI-Helden können fliehen.
+* Kampfstätten haben -10% Wachstum.
+<br><color=white>Warnung!<br><color_default>
+* Verwenden Sie nicht die Option "Mission neu starten", nachdem die Karte geladen wurde, sonst kehrt die KI in den NICHT-gelegenheits Modus zurück, manchmal sogar in einen der sehr schweren Modi!

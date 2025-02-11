@@ -1,0 +1,1 @@
+﻿Alle vom Helden gewirkten Schadenszauber richten 50% mehr Schaden an, aber die Manakosten verdoppeln sich.

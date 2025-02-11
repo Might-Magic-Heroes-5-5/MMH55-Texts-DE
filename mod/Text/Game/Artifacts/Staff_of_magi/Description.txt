@@ -1,0 +1,9 @@
+﻿+4 Zauberkraft<br>
+-100% Magieresistenz feindlicher Kreaturen<br><color_default>
+(Magische Immunitäten sind davon nicht betroffen)<br><br><color=purple>
+Sar-Issus Insignien<color_default><br>
++100% Zauberkraft & Mana für alle Kreaturen in der Armee des Helden (2/4)<br>
++4 Zauberkraft (4/4)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.<br><br><color=orange>
+Quest<color_default><br>
+Bringe alle 4 Sar-Issus Insignien zu einem Astrologen um eine einzigartige Belohnung zu erhalten.

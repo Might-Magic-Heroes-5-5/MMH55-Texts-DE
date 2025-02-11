@@ -1,0 +1,2 @@
+﻿Abenteuerfähigkeit: Der Held erhält nach jedem Kampf an Land 100 Bewegungspunkte<br><color_default>
+Der Held verliert auch keine Bewegungspunkte, wenn er in den Kampf zieht. Dieser Teil des Bonus ist nicht mit der Befähigung "Grabschen" oder Artefakten kombinierbar.

@@ -1,0 +1,4 @@
+﻿Menschliche Ressourcen:10000/5/10
+AI Ressourcen:30000/15/30
+Neutrale: 1.3 + (*1.14 pro Woche)
+Erfahrung: x/1.3

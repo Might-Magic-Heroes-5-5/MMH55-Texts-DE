@@ -1,0 +1,1 @@
+﻿Die Klasse des Helden bestimmt seine Fähigkeiten und Anfangsattribute. Die Stufe des Helden beeinflusst seine Attribute. Das Erreichen einer neuen Stufe ermöglicht es, neue Fertigkeiten und Fähigkeiten zu erlangen und die Attribute des Helden zu verbessern.

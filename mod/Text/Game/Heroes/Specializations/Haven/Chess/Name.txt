@@ -1,0 +1,1 @@
+﻿Klasse: Ritter<br>Spezialisierung: Schachritter<br><br><body_bright>Der Held beginnt mit einem Grundverständnis von Angriff, Verteidigung und allen Magieschulen.

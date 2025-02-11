@@ -1,0 +1,4 @@
+﻿-1 Glück<br>
+-2 Glück, wenn es nicht ausgerüstet ist<br><br><color=red>
+Verfluchtes Artefakt<br><color_default>
+Dieses Artefakt hat den Helden fest im Griff.

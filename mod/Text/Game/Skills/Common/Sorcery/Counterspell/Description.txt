@@ -1,0 +1,1 @@
+﻿Der Held erhält eine besondere Kampffähigkeit, die alle Effekte des nächsten vom Feind gewirkten Zaubers negiert, aber die doppelten Manakosten dieses Zaubers verbraucht.

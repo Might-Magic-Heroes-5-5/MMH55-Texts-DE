@@ -1,0 +1,1 @@
+﻿Aggressor: Der Held beginnt mit einer Angriffsfähigkeit von +1 und erhöht sie alle 7 Stufen um +1.

@@ -1,0 +1,1 @@
+﻿Befähigt den Helden, Elemente an feindlichen Kreaturen zu sehen, so dass vom Helden gewirkte Zauber der Destruktiven Magie vom entgegengesetzten Element zusätzlichen Elementarschaden anrichten können. Der zusätzliche Schaden beträgt +5% für jede Meisterschaftsstufe des Okkultismus und +5% für jeden gebauten Altar der Elemente.

@@ -1,0 +1,1 @@
+﻿Klasse: Overlord<br>Spezialisierung: Hydrazähmer<br><br><body_bright>Zu Beginn des Kampfes setzt ein Stapel befreundeter Hydras, Höllenhydras oder Säurehydras die Fähigkeit Sprint ein und verdoppelt seine Initiative für 3 Runden (der Stapel muss größer als eine Einheit sein).<br><color_default>Beginnt mit der Fähigkeit Geübte Führungskraft.

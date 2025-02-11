@@ -1,0 +1,3 @@
+﻿Dieser Gegenstand hat keine nützlichen Eigenschaften, solange er kaputt ist.<br><br>
+<color=orange>Shantiri-Mondscheibe<color_default><br>
+Bringe alle 4 Teile der Shantiri-Mondscheibe in eine Arkane Bibliothek, um sie reparieren zu lassen.

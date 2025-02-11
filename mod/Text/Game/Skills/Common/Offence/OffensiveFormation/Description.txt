@@ -1,0 +1,1 @@
+﻿Der Angriffswert aller Kreaturen in der Armee des Helden erhöht sich, wenn sie auf dem Schlachtfeld nah beieinander stehen.<br><color_default>Die Stärke des Bonus hängt von der Stärke der Kreaturen ab (schwache Kreaturen werden durch mächtige stärker verstärkt) und kann maximal +10 erreichen.

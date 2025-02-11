@@ -1,0 +1,1 @@
+﻿<color=yellow>Sie haben diese Shantiri-Scheibe bereits besucht, Sie fanden <value=amount> von <value=total>!

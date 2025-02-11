@@ -1,0 +1,1 @@
+﻿Klasse: Häuptling<br>Spezialisierung: Pfundskerl<br><br><body_bright>Der Held greift gleich zu Beginn des Kampfes eine zufällige gegnerische Kreatur an. Außerdem verursachen alle Angriffe des Helden +1% Schaden für jede Stufe des Helden.<br><color_default>Beginnt mit der Befähigung Kampfkunst.

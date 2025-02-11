@@ -1,0 +1,13 @@
+﻿Lieber Spieler,
+
+Herzlich willkommen bei der neuen Kampagnenüberarbeitung für Might & Magic: Heroes 5.5. Bitte beachtet die folgenden Punkte, um sicherzugehen, dass ihr nicht auf Probleme stoßt, wenn ihr alle Kampagnen durchspielen wollt:
+
+1. Starten Sie immer das Spiel mit der MMH55.exe oder der MMH55_64.exe und starten sie das Spiel nicht über den Steam Launcher, da dadurch die falsche exe geladen wird und die KI Fehler verursachen wird.
+
+2. Alle ausgerüsteten Artefakte werden zwischen den Missionen übertragen, mit Ausnahme von Bewegungsartefakten, Fähigkeitsbücher, Goldbeuteln, Zauberstäben, Schriftrollen und der Träne von Asha. Nicht ausgerüstete Artefakte gehen verloren.
+
+3. Die Obergrenzen für Heldenstufen sind höher. Die Standardgröße des Schlachtfelds ist 14x12 statt 12x10 und neutrale Stapel werden in allen Missionen gemischt.
+
+4. An Handelsposten kann man Manatränke und Bewegungstränke kaufen. Erweiterte RMG-Funktionen wie Stadtumwandlung, Regierungsführung, Dimensionsportal und Minenkontrolle sind deaktiviert, da sie mit der ursprünglichen Geschichte und den ursprünglichen Zielen in Konflikt stehen.
+
+meddl

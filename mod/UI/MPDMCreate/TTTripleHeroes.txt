@@ -1,0 +1,1 @@
+﻿Schachmodus im 3x3-Format, bei dem jeder Spieler drei Armeen hat und während des Kampfes zwischen ihnen wechseln kann.

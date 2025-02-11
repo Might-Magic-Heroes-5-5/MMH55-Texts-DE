@@ -1,0 +1,7 @@
+﻿+1 Moral<br>
++1 Glück<br>
++250 Bewegungspunkte nach jedem Seekampf<br><br><color=purple>
+Piratenkleidung<color_default><br>
++6 Angriff (3/6)<br>
++12 Angriff (6/6)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.

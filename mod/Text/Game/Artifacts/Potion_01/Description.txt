@@ -1,0 +1,1 @@
+﻿Wenn das Artefakt getragen wird, füllt das Artefakt am nächsten Tag den gesamten Manapool des Helden auf.<br><br><color=blue>Verbrauchsartikel<color_default><br>Der Trank wird nach der Benutzung verschwinden, bewahre ihn im Rucksack auf, bis er gebraucht wird.

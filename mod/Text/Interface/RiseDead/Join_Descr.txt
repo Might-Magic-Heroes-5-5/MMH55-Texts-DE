@@ -1,0 +1,5 @@
+﻿Ihr könnt <body_bright><value=count> <value=name><body> erwecken.<br>
+
+Das kostet Euch <body_bright><value=energy_needed> Punkte<body> Dunkelenergie.
+
+<body_bright>Wollt Ihr sie erwecken?

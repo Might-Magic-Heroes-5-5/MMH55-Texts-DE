@@ -1,0 +1,1 @@
+﻿Klasse: Waldläufer<br>Spezialisierung: Schneller Angreifer<br><br><body_bright>Kreaturen in der Armee des Helden haben zu Beginn des Kampfes einen Bonus von +0,5% pro Heldenstufe auf ihre Initiative.<br><color_default>Beginnt mit der Befähigung Soldatenglück.

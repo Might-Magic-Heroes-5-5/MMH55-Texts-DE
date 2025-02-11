@@ -1,0 +1,3 @@
+﻿+6 Angriff<br>
++6 Verteidigung<br>
+Gewährt verbündeten Kreaturen Immunität gegen Armageddon

@@ -1,0 +1,1 @@
+﻿Enttäuscht zögert die Hexe eine Weile, entscheidet sich aber schließlich, Ihnen ein anderes Angebot zu machen. Dieses Mal jedoch will sie <value=gold> Gold als Gegenleistung für ihre Dienste. Möchten Sie <value=mastery> <value=skill> erlernen?

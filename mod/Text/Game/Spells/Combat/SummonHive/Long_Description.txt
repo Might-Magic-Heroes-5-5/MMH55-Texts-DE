@@ -1,0 +1,1 @@
+﻿Erschafft einen Wespenstock auf dem ausgewählten Feld. Ein Wespenschwarm aus diesem Stock greift feindliche Kreaturen auf geübter Stufe bis zum Ende des Kampfes oder bis zu seiner Vernichtung an. (Der Wespenstock greift keine untoten, elementaren und mechanischen Einheiten an.) Der Wespenstock verhindert, dass angrenzende feindliche Schützen schießen können.

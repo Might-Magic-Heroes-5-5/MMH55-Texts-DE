@@ -1,0 +1,1 @@
+﻿Besondere Kampffähigkeit. Fügt allen beschworenen und herbeigerufenen Einheiten 120 + (40 * Heldenstufe) Schaden zu. Die Fähigkeit kostet 20 Mana und setzt den ATB-Wert des Helden nach der Benutzung auf 0,33 zurück.

@@ -1,0 +1,1 @@
+﻿Zerstörer: Der Held kommt im Kampf abhängig von seiner Stufe früher zum Zug. Die Initiative des Helden beträgt nun 10,75 + 0,025 * Heldenstufe (statt 10).

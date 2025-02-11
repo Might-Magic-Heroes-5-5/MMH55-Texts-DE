@@ -1,0 +1,1 @@
+﻿Die Kreatur kann einen getöteten verbündeten Stapel einmal während des Kampfes wiederbeleben, vorausgesetzt der Ort, an dem der Stapel getötet wurde, ist nicht von einer anderen Kreatur besetzt (aktivierte Fähigkeit). Die Kraft der Wiederbelebung entspricht der Stapelgröße*100.

@@ -1,0 +1,1 @@
+﻿Lässt Kreaturen in der Zieleinheit dauerhaft wiederauferstehen. Jede Benutzung dieses Zaubers verringert die Lebenspunkte jeder Kreatur der wiederauferstandenen Einheit, es sei denn, der Zaubernde verfügt über eine große Menge an Zauberkraft.

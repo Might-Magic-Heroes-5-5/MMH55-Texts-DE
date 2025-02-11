@@ -1,0 +1,1 @@
+﻿Der Erzdämon kann auf jeden Kreaturenstapel in einem 7-Kachel-Radius zielen, unabhängig davon, wem er gehört, und diese auf das unbesetzte Feld teleportieren, das ihm am nächsten ist (aktivierte Fähigkeit).

@@ -1,0 +1,2 @@
+﻿<center><tooltip_default><tooltip_title><value=name><tooltip_default><value=strings>
+<br><br><color_default>Nutzen Sie die Stadtverwaltungsfunktion, um das zusätzliche Einkommen einzelner Helden zu überprüfen.

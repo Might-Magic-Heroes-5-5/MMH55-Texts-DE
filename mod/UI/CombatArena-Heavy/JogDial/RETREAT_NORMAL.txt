@@ -1,0 +1,1 @@
+﻿Fliehen/Kapitulieren. <hotkey=input_Combat_Retreat>

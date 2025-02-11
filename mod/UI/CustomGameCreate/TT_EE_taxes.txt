@@ -1,0 +1,1 @@
+﻿50% des Einkommens werden als Steuern gezahlt, dies gilt für alle Spieler einschließlich der KI. Diese Einstellung reduziert das Tempo des Spiels erheblich und es macht ein intelligenteres Ressourcenmanagement erforderlich.

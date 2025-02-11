@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Elementare beschwören und jedes Mal, wenn der Gegner Elementare beschwört, beschwört der Held sofort die gleiche Anzahl der entgegengesetzten Ausrichtung. Wenn ein Phönix beschworen wird, beschwört der Held einen perfekten Klon.

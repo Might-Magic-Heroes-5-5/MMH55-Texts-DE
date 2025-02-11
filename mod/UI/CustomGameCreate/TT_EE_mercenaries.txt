@@ -1,0 +1,9 @@
+﻿Hiermit können Sie einstellen, wie oft neutrale Helden neutrale Abteilungen unterstützen. Neutrale Helden haben dieselbe Stufe wie der Held. Nicht empfohlen für MMH5.5-Karten, da die neutrale Truppen bereits hochskaliert sind.
+
+Normal: Aus
+
+Hart: ~25% der Abteilung
+
+Heldenhaft: ~50% der Abteilung
+
+Unmöglich: ~90% der Abteilung

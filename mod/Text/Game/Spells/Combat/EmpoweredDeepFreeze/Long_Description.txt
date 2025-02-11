@@ -1,0 +1,1 @@
+﻿Friert das Ziel ein und bewirkt sofortigen Kälteschaden sowie weiteren physikalischen Schaden über einen bestimmten Zeitraum durch Erfrierungen.<br><color_default>Dieser Zauber richtet extrem viel Schaden an, Glück kann jedoch nicht auf ihn angewendet werden.

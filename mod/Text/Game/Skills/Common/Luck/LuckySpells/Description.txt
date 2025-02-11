@@ -1,0 +1,1 @@
+﻿Glückswürfe werden nun auf alle vom Helden gewirkten direkten Schadenszauber angewandt, wodurch die Chance auf eine 66%ige Schadenserhöhung besteht.<br><color_default>Die Chance, zusätzlichen Schaden zu verursachen, ist dieselbe wie immer: Glück*10%, wobei es kein Pech gibt, wenn der Glückswert negativ ist. Häuptlinge mit dieser Fähigkeit erhalten +10 Zauberkraft.

@@ -1,0 +1,1 @@
+﻿Der Held trifft die anvisierten Kreaturen mit einem Fluch, der ihren Angriff vermindert.<br><color_default>Der Effekt ist derselbe wie der Leidenszauber auf Stufe 0 und senkt daher den Angriff um -4 + -0.15 pro Zauberkraft.

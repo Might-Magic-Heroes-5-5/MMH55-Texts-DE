@@ -1,0 +1,1 @@
+﻿Abenteuerfähigkeit: Erhöht die Bewegungsgeschwindigkeit des Helden auf See um 25%.

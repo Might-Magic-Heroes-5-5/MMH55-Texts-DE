@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Zauberkraft und steigert diesen Wert für jeweils 5 Stufen um 1. Der Held erhält außerdem +4 für seine Manaregeneration und einen einmaligen Bonus von +100 Mana.

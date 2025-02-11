@@ -1,0 +1,1 @@
+﻿Verringert den Schaden, der Euren Kreaturen im Nahkampf zugefügt wird, um 20% und erhöht die Heilkraft des Erste-Hilfe-Zelts um 40HP.

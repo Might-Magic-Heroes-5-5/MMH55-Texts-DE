@@ -1,0 +1,1 @@
+﻿Der Wachposten erlaubt das Hinzufügen einer Abteilung zusätzlicher Einheiten auf das Schlachtfeld, wenn die Stadt angegriffen wird.

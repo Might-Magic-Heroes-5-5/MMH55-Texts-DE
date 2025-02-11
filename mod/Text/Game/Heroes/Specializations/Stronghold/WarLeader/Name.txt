@@ -1,0 +1,1 @@
+﻿Klasse: Häuptling<br>Spezialisierung: Der Neue Khan<br><br><body_bright>Bei allen Kriegsschreien sind die Kosten um 1+Stufe/10 gesunken und es werden zusätzliche Blutrage-Punkte in Höhe der Stufe des Helden vergeben.<br><br><color=yellow>Khan<color_default><br>Beginnt mit der Fähigkeit Einfacher Schrei.

@@ -1,0 +1,1 @@
+﻿Die Zauberkraft des Helden wird um 2 erhöht und wenn jemand einen Zauber der beschwörenden Magie wirkt, wird seine Zauberkraft als 20% niedriger als normal angesehen.

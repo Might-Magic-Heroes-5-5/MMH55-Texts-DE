@@ -1,0 +1,1 @@
+﻿Erhöht die Moral um <value=enchant>.<br>Erhöht die Ragepunkte der Armee um <Wert=Armee_rp>.

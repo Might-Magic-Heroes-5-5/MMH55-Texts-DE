@@ -1,0 +1,1 @@
+﻿Für jedes Feld, das von dieser Kreatur während eines Angriffs zurückgelegt wird, wird die Verteidigung des Ziels um 7.5% reduziert (bis hinunter zu Null).

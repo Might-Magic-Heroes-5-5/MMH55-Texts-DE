@@ -1,0 +1,1 @@
+﻿Lebenspunkte des Phönix: <value=health><br>Schaden: <value=min_damage> - <value=max_damage>.

@@ -1,0 +1,3 @@
+﻿+6 Zauberkraft<br>
++20% Schaden für Luftzauber<br><color_default>
+Die Schadenserhöhung betrifft Blitzschlag und Kettenblitz.

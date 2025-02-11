@@ -1,0 +1,1 @@
+﻿Klasse: Häuptling<br>Spezialisierung: Lindwurmzähmer<br><br><body_bright>Lindwürmer, Übelwürmer und Paokais in der Armee des Helden erhalten +2 auf ihre Trefferpunkte für jede Stufe des Helden, beginnend mit der ersten Stufe.<br><br><color=orange>Veteran<color_default><br>Beginnt mit der Fähigkeit Einfache Erleuchtung.

@@ -1,0 +1,1 @@
+﻿Ermöglicht, dass eigene Einheiten auf dem Schlachtfeld mit Runen der Stufe 1-2 belegt werden können, was ihnen vorübergehend neue Fähigkeiten und Merkmale verleiht.

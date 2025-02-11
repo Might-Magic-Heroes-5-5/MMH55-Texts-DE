@@ -1,0 +1,29 @@
+﻿-------------------------------------------------------------------------------
+FORTGESCHRITTENE RMG-DUELL-KARTE
+-------------------------------------------------------------------------------
+
+1.Besuchen Sie eine verlassene Mine, um eine zufällige Menge von Artefakten zu erhalten.
+2.Besuchen Sie eine Hexenhütte, um einen enormen Erfahrungsschub zu erhalten.
+3.Gehen Sie zurück in Ihre Stadt, um sicherzustellen, dass Sie alle Zaubersprüche gelernt haben, kaufen Sie alle Truppen und vergessen Sie nicht die Kriegsmaschinen!
+4.Begeben Sie sich in die Mittelzone, um Ihren Gegner zu schlagen, Ihr Gegner sollte zustimmen, auf dem zufällig generierten Geländetyp zu kämpfen.
+
+-------------------------------------------------------------------------------
+REGELN
+-------------------------------------------------------------------------------
+
+-Wenn Ihr Held stirbt, verlieren Sie das Spiel, Sie können keinen weiteren Helden einstellen.
+-Um zu verhindern, dass die Spieler das Spiel verzögern, werden die Städte am 8. Tag zerstört, danach haben Sie noch maximal 7 Tage Zeit, Ihren Gegner zu töten.
+-Die Mammutbaum Observatorien auf dieser Karte können Ihr Mana wiederherstellen, andere temporäre Auffrischungen sind nicht verwendbar.
+-Die Kampfstätten auf dieser Karte sind in der Standardeinstellung zu gefährlich, und wenn Sie sie besuchen, werden Sie verlieren.
+
+-------------------------------------------------------------------------------
+BALANCE INFO
+-------------------------------------------------------------------------------
+
+-Stadtgebäude haben etwas zusätzliches Wachstum, wenn es ein spezielles Fraktionsgebäude gibt und Dungeon Stufe 1-3 mehr Wachstum hat, um die Rekrutierung zu ersetzen/rituale Grube.
+-Helden mit Kreaturenwachstum oder Drachenblut-Spezialisierungen erhalten einen zusätzlichen Stapel dieser Kreaturen.
+-Helden mit Landkunde Spezialisierungen erhalten einen zusätzlichen Stapel von Elementaren.
+-Nekropolishelden erhalten je nach Klasse einen zusätzlichen Stapel Skelette oder Geister.
+-Zauberer erhalten +4 Angriff und +4 Verteidigung, können aber die Arkane Schmiede nicht benutzen.
+-Waldläufer erhalten einen zusätzlichen Stapel Klingentänzer, sie können aber nicht die Gilde der Rächer benutzen.
+-Die Größe der Armee, Artefakte und Erfahrung sind vom Benutzer konfigurierbare Einstellungen, die man in data/MMH55-settings.pak findet, auf Wunsch kann das Spiel in einem Lauf für die Kampfstätten geändert werden, wodurch das die Menge an Artefakten und die neutralen Wachen reduziert werden.

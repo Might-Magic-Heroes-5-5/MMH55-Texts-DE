@@ -1,0 +1,1 @@
+﻿Spiele Duelle zwischen zwei Helden unter vollkommen gleichen Bedingungen. Um gegen die KI zu spielen, aktiviere den Autokampf für einen Spieler.

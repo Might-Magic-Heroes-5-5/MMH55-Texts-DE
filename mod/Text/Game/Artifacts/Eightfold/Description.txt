@@ -1,0 +1,2 @@
+﻿+12 Angriff<br>
++12 Mana nach jedem Kampf

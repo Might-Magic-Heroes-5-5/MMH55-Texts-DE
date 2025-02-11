@@ -1,0 +1,2 @@
+﻿<color_default>Eine Aufwertung der Grausigen Einfriedung.<br>
+<color_bright>Die Grausige Einfriedung ermöglicht die Rekrutierung von Echsenrittern und Echsenhusaren.

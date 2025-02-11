@@ -1,0 +1,1 @@
+﻿Die Wahrscheinlichkeit, einem feindlichen Zauber zu widerstehen, verdoppelt sich. Kriegerglück funktioniert ähnlich wie Soldatenglück, indem zwei Mal die Chance besteht, dass die Magieresistenz des Trupps ausgelöst wird.

@@ -1,0 +1,1 @@
+﻿Der barbarische Held kann Kriegsrufe von anderen befreundeten Helden bei Begegnungen oder von feindlichen Helden im Kampf lernen, auch wenn er/sie nicht über entsprechende Voraussetzungen verfügt. Der Held kann die ihm bekannten Kriegsrufe auch von anderen Helden lernen, aber nur, wenn diese über entsprechende Voraussetzungen verfügen.

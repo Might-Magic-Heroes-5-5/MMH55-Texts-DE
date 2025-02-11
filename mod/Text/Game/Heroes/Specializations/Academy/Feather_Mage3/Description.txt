@@ -1,0 +1,1 @@
+﻿Pfeilsturm: Abhängig von seiner Stufe kommt ein Held in der Schlacht früher zum Zug. Die Initiative des Helden beträgt nun 10,75 + 0,025 * Heldenstufe (statt 10).

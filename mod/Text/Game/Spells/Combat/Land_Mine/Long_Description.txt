@@ -1,0 +1,1 @@
+﻿Verteilt mehrere explodierende Minen auf dem Schlachtfeld. Die Minen sind für den Feind unsichtbar.

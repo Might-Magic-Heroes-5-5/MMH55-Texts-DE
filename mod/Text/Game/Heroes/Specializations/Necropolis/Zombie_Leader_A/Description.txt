@@ -1,0 +1,1 @@
+﻿Zombielord: Alle Zombies, Seuchenzombies und Moderzombies in der Armee des Helden agieren immer sofort, nachdem der Held am Zug ist. Dadurch wird ihre Initiative auf den gleichen Wert wie die des Helden (10) erhöht und sie sind immun gegen Verlangsamung.

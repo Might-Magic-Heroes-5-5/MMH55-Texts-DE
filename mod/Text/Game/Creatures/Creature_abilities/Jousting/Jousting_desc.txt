@@ -1,0 +1,1 @@
+﻿Die Kreatur erhält für jedes zurückgelegte Feld einen Bonus von 3,33% auf den nächsten Angriff.

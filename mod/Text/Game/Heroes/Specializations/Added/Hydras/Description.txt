@@ -1,0 +1,1 @@
+﻿Hydrazähmer: Zu Beginn des Kampfes setzt ein Stapel befreundeter Hydras, Höllenhydras oder Säurehydras die Fähigkeit Sprint ein und verdoppelt seine Initiative für 3 Runden (der Stapel muss größer als eine Einheit sein).

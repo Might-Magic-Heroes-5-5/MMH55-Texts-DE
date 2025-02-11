@@ -1,0 +1,1 @@
+﻿Klasse: Rächer<br>Spezialisierung: Aggressor<br><br><body_bright>Der Held beginnt mit einer Angriffsfertigkeit von +1 und erhöht sie alle 7 Stufen um +1.<br><color_default>Beginnt mit der Fähigkeit Einfacher Gegenschlag.

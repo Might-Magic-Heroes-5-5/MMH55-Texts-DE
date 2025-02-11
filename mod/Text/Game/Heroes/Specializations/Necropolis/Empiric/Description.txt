@@ -1,0 +1,1 @@
+﻿Einbalsamierer: Das Erste-Hilfe-Zelt heilt 4 weitere Trefferpunkte pro Verteidigungswert des Helden, aber der Held beginnt mit -1 Verteidigung.

@@ -1,0 +1,1 @@
+﻿Klasse: Ketzer<br>Spezialisierung: Zauberbrecher<br><br><body_bright>Alle Kreaturen in der Armee des Helden erhalten 5% Magieresistenz und + 1% pro Heldenstufe.<br><color_default>Beginnt mit der Fähigkeit Geübter Dunkelmagie.

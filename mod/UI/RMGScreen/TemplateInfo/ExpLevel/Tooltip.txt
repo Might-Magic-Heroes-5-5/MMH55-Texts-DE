@@ -1,0 +1,1 @@
+﻿Dies regelt, wie viele Aufwertungsgebäude in Schatzzonen platziert werden und reguliert indirekt den Artefaktwert. Neu ausbalanciert seit RC15, setze den Wert niedriger, um es schwieriger zu machen, seltene Artefakte zu finden oder stelle den Wert höher, um das Gegenteil zu erreichen.

@@ -1,0 +1,1 @@
+﻿Ermöglicht es dem Helden, Elementketten, die auf mit Kreaturen verbundenen Elementen basieren, aufzubauen um so zusätzlichen Elementarschaden anrichten zu können.

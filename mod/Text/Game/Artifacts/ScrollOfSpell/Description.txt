@@ -1,0 +1,3 @@
+﻿+2 Wissen<br>
+Gewährt den Zauber <value=spell_name>.
+<br><color_default>Häuptlinge können den Zauber nicht wirken, dafür erhalten sie einen Wissensbonus.

@@ -1,0 +1,5 @@
+﻿+3 Moral<br>
++3 Glück<br>
++33% Bewegungspunkte pro Tag auf jedem Gelände<br>
+Ermöglicht die Fähigkeit zu fliegen und verringert dabei die zusätzlichen Bewegungskosten für das Durchqueren von unwegsamen Gelände um 100%<br><br><color=red>
+Schwebend<color_default><br>Die Fähigkeiten Landkunde & Kundschafter haben keinen Effekt.

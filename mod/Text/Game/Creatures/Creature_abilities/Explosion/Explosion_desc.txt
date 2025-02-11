@@ -1,0 +1,1 @@
+﻿Die Kreatur wirkt den Zauber Feuerball um sich herum und fügt allen benachbarten Kreaturen Schaden zu, nur sich selbst nicht. Der durch den Feuerball verursachte Schaden entspricht der Zauberkraft*24 des Stapels.

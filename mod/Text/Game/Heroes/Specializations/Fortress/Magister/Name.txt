@@ -1,0 +1,1 @@
+﻿Klasse: Flammenbewahrer<br>Spezialisierung: Patriarch<br><br><body_bright>Alle Runenpriester, Runenpatriarchen und Feuerbewahrer in der Armee des Helden erhalten ab der ersten Stufe +1 auf ihren Angriff und ihre Verteidigung für jede der beiden Stufen des Helden, beginnend ab der ersten Stufe.<br><color_default>Beginnt mit der Befähigung Soldatenglück.

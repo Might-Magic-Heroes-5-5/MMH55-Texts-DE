@@ -1,0 +1,1 @@
+﻿Ermöglicht die manuelle Steuerung des Erste-Hilfe-Zeltes und erlaubt es, tote Kreaturen wiederzubeleben.<color_default><br>Stellt das Erste-Hilfe-Zelt nach dem Kampf wieder her, wenn es zerstört wurde. Die Trefferpunkte des Erste-Hilfe-Zeltes werden mit 3 multipliziert.

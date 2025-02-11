@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Eisblitz und erhält den Effekt Erstarren für die Zauber Eisblitz, Eisring und Einfrieren.<br><color_default>Die Zauber frieren ihre Ziele für 0,4 Runden ein, in denen ihr ATB-Wert nicht ansteigt (eine effektive Reduktion von 0,4*Initiative/10). Für den Zauber Eisring wird der Effekt als 0.4/Menge der getroffenen Ziele geteilt.

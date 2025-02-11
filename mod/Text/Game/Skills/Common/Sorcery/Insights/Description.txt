@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Zauberkraft und steigert diesen Wert alle 10 Stufen um 1 weiter. Der Held erlernt außerdem einen neuen zufälligen Zauber der Stufen 1-3, für den er die erforderlichen Voraussetzungen besitzt.

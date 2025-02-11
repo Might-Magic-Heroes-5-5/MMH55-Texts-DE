@@ -1,0 +1,1 @@
+﻿Der Held kann nun Teufel, Erzteufel und Erzdämonen herbeirufen und es besteht eine Chance, dass jeder herbeigerufene Stapel 10% mehr Truppen beschwört. Die Chance ist gleich des Glücks des Helden * 20% und Null, wenn das Glück nicht positiv ist.

@@ -1,0 +1,1 @@
+﻿Feuerzauber, die vom Helden im Kampf gewirkt werden, entzünden Feinde und fügen dem Ziel über die nächsten 2 Runden zusätzlich 100% des aktuellen Zauberschadens zu, d.h. 50% pro Runde.

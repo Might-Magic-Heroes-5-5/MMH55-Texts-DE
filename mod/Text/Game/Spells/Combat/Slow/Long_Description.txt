@@ -1,0 +1,1 @@
+﻿Bewirkt, dass der ausgewählte gegnerische Stapel im Kampf weniger Aktionen ausführt. Wenn das Ziel unter dem Einfluss des Zaubers Eile steht, bleiben beide Effekte aktiv und der Unterschied in der Stärke der Zaubernden bestimmt das Ergebnis.

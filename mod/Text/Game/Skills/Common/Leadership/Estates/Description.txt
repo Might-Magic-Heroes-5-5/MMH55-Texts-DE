@@ -1,0 +1,1 @@
+﻿Der Held steuert jeden Tag 250 Goldstücke + einen zusätzlichen Betrag in Höhe seines Wissens*25<br><color_default>Zum Beispiel: 750 Gold pro Tag für 20 Wissen.

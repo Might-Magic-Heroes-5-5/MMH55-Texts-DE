@@ -1,0 +1,1 @@
+﻿Während eines Angriffs fügt diese Kreatur nicht nur dem Ziel, sondern auch jeder anderen Einheit (Freund oder Feind), die direkt hinter ihr steht, vollen Schaden zu.

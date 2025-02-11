@@ -1,0 +1,1 @@
+﻿Der Schaden von Erdzaubern wird in Kämpfen um 10% erhöht. Die Anzahl der beschworenen Erdelementare erhöht sich um 50%.

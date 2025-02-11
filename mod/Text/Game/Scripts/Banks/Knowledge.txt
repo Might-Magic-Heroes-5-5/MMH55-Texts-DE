@@ -1,0 +1,1 @@
+﻿<color=yellow>Ihr Wissen wird dauerhaft um +<value=param> erhöht.

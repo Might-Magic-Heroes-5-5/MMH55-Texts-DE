@@ -1,0 +1,1 @@
+﻿Eine besondere Kampffähigkeit, um den Tod im Kampf herbeizurufen. Alle feindlichen lebenden Kreaturen erhalten -2 auf Moral und Glück und -10% auf Initiative. Die Dauer des Effekts beträgt 2 + 0,1*(Heldenstufe) Runden. Der ATB-Wert des Helden wird nach der Anwendung auf 0,15 zurückgesetzt.

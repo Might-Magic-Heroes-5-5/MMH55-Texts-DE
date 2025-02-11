@@ -1,0 +1,1 @@
+﻿Abenteuerfähigkeit: Der Held wird zum Mentor. Wenn ein Mentor auf einen anderen befreundeten Helden trifft, sammelt dieser so viel zusätzliche Erfahrung, dass seine Gesamterfahrung 10% der Erfahrung des Mentors entspricht.

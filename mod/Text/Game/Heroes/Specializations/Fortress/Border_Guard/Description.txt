@@ -1,0 +1,1 @@
+﻿Grenzschutz: Der Held hat einen Bonus auf seine Verteidigung (+1 Verteidigung für je 2 Heldenstufen), wenn die Kämpfe einen Tag von der eigenen Stadt entfernt sind.

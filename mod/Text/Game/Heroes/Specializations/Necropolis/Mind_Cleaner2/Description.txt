@@ -1,0 +1,1 @@
+﻿Zauberverdreher: Der Held hat dauerhaft +1 Glück, und wenn ein feindlicher Held einen Zauberspruch wirkt, kann dieser in seinem Zauberbuch blockiert werden, so dass es unmöglich ist, diesen Zauberspruch in diesem Kampf erneut zu wirken. Die Wahrscheinlichkeit des Blockens steigt mit der Stufe des Helden.

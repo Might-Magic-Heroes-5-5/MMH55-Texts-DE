@@ -1,0 +1,1 @@
+﻿Die Fähigkeiten des Helden - die von Anfang an zur Verfügung stehenden und die im Laufe des Spiels erlernten. Beeinflussen die verfügbaren Fähigkeiten.

@@ -1,0 +1,3 @@
+﻿<color_default>Aufwertung der Zitadelle.<br>
+<color_bright>Die Burg gibt Euch zwei Schützentürme, verstärkt die Befestigungsmauern und verdoppelt die normale Vermehrungsrate der Kreaturen.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Verteidigungsbonus von +3. 

@@ -1,0 +1,1 @@
+﻿Kristall-Lebenspunkte:<value=health><br>Schaden bei Zerstörung: <value=damage>

@@ -1,0 +1,1 @@
+﻿Erschafft vorübergehend einen drei Felder langen Wall mit 75% Schutz vor magischen Angriffen und Fernangriffen, der Nahkampfangreifern Schaden in Höhe der verlorenen Lebenspunkte zufügt. Die Barriere verhindert, dass benachbarte Schützen schießen können.

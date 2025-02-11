@@ -1,0 +1,1 @@
+﻿Schnelligkeit aller Truppen im Kampf +1

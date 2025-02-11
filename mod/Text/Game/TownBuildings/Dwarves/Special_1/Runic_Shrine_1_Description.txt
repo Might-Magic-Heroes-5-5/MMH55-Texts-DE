@@ -1,0 +1,2 @@
+﻿Ermöglicht einem Helden in der Stadt, die Runen des ersten und zweiten Kreises zu lernen.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Wissens-Bonus von +1.

@@ -1,0 +1,1 @@
+﻿Zu Beginn des Kampfes übernimmt der Held die Kontrolle über eine feindliche Kriegsmaschine. Das feindliche Kriegsgerät wird zufällig ausgewählt, das Katapult ausgenommen.

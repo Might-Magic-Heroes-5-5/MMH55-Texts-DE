@@ -1,0 +1,1 @@
+﻿Der Tempel hat Sie mit <value=num> Kreaturen (Tier<value=level>) belohnt.

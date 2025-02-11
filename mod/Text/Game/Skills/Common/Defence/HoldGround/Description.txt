@@ -1,0 +1,1 @@
+﻿Truppen, die unter dem Befehlt des Helden stehen, erhalten einen zusätzlichen Bonus von +30% auf ihre Verteidigung, wenn sie den Befehl zur Verteidigung ausführen.<br><color_default>Der Bonus von Wurzeln schlagen beim Verteidigen wird ebenfalls verdoppelt und gibt den Alten Baumriesen eine 100%ige Erhöhung der Verteidigung.

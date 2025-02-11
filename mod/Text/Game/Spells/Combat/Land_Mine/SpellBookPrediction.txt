@@ -1,0 +1,1 @@
+﻿Legt <value=duration> Minen, die jeweils <value=damage> Schaden anrichten.

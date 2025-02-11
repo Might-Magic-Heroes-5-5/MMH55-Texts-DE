@@ -1,0 +1,1 @@
+﻿Der Glücksbonus auf Schäden wird um 10% erhöht.<br><color_default>Der tatsächliche Schadensmultiplikator wird x1,83, da 1,66 x 1,1 = 1,83.

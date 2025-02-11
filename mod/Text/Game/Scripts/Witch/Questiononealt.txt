@@ -1,0 +1,1 @@
+﻿Eine alte Hexe empfängt Sie und interessiert sich für Ihre Suche, sie meint, Sie wüssten schon eine ganze Menge, aber im Gegenzug für <value=gold> ist sie bereit, Ihnen <value=mastery> <value=skill> beizubringen. Sind Sie einverstanden?

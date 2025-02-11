@@ -1,0 +1,1 @@
+﻿Gestattet dem Helden, ihm unbekannte Zauber zu lernen, die von einem gegnerischen Helden oder einer Kreatur im Kampf benutzt werden (der Held muss den Zauber hinsichtlich Schule, Stufe usw. erlernen können), und das Inventar des feindlichen Helden einzusehen.

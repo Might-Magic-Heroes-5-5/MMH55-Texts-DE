@@ -1,0 +1,1 @@
+﻿Klasse: Zauberer<br>Spezialisierung: Zeitverschieber<br><br><body_bright>Der Magier transformiert das lokale Zeitkontinuum und ändert die Reihenfolge der Aktionen der Kreaturen zu Beginn des Kampfes. Die Intensität der Transformation hängt von der Stufe des Helden ab.

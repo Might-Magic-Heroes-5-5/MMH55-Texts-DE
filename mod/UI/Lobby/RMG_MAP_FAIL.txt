@@ -1,0 +1,1 @@
+﻿RMG Karte konnte nicht geladen werden, dieser Fehler trat auf, weil 'RMGmap' unter 'sRMGProps' in der Liste der Karteneigenschaften auf true gesetzt ist, während die Karte nicht vollständig unmodifiziert ist. Um dieses Problem zu beheben, setzen Sie es im Karteneditor auf false und stellen Sie anderen Spielern eine Kopie zur Verfügung.

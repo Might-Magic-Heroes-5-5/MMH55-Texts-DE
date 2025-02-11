@@ -1,0 +1,1 @@
+﻿Verleiht dem Helden 2500 zusätzliche Bewegungspunkte am nächsten Tag (nachdem der Held alle verbraucht, werden 2500 wiederhergestellt).<br><br><color=blue>Verbrauchsartikel<color_default><br>Der Trank wird nach der Benutzung verschwinden, bewahre ihn im Rucksack auf, bis er gebraucht wird.

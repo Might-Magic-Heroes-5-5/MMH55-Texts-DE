@@ -1,0 +1,4 @@
+﻿+1 Schuss für die Balliste<br>
++1 Schuss für das Katapult<br>
++50% Heilung für das Erste-Hilfe-Zelt<br>
++4 Angriff für alle schießenden Kreaturen in der Armee des Helden, wenn der Munitionswagen vorhanden ist.

@@ -1,0 +1,2 @@
+﻿+4 Verteidigung<br>
+-40% Schaden durch feindliche Feuerzauber

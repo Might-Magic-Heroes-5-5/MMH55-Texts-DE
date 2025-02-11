@@ -1,0 +1,1 @@
+﻿Hüter des Schatzes: Der Held startet mit +2 Angriff und zu Beginn jeder Woche werden zusätzliche Knochendrachen, Phantomdrachen und Geisterdrachen für die Rekrutierung in allen Nekropolisstädten zur Verfügung stehen. Die Anzahl entspricht 0.06*Heldenstufe. Es gibt keine zusätzlichen Kreaturen vor Level 9.

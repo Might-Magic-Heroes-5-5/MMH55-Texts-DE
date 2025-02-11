@@ -1,0 +1,1 @@
+﻿Klasse: Waldläufer<br>Spezialisierung: Wächter des Waldes<br><br><body_bright>Der Held beginnt dauerhaft mit +2 Verteidigung und alle Baumriesen, Alte Baumriesen und Zornige Baumriesen in der Armee des Helden können sofort handeln, wenn der Kampf beginnt.<br><color_default>Beginnt mit der Fähigkeit Einfacher Gegenschlag.

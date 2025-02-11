@@ -1,0 +1,2 @@
+﻿+2 Verteidigung<br>
++2 Maximale Trefferpunkte für alle Kreaturen in der Armee des Helden

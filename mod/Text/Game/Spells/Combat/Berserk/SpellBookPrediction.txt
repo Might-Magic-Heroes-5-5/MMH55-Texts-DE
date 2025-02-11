@@ -1,0 +1,1 @@
+﻿Zauberdauer: <value=duration> Züge. Der Schaden erhöht sich um <value=enchant>%.

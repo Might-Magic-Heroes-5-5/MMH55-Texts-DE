@@ -1,0 +1,1 @@
+﻿Der Held inspiriert einen verbündeten Stapel Orks dazu, nach vorne zu stürmen. Eine Runde lang hat der betroffene Stapel +3 Schnelligkeit und erhöhte Angriffswerte (gleich 1 + Stufe/5). Außerdem gewährt er allen Bastionskreaturen eine kleine Menge an Rage.

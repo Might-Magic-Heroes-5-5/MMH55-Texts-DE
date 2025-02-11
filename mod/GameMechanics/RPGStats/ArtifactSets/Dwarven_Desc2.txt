@@ -1,0 +1,1 @@
+﻿Gewährt allen Kreaturen in der Armee des Helden zusätzlich +40 Magieresistenz.

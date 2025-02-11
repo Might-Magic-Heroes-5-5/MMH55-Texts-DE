@@ -1,0 +1,8 @@
+﻿+6 Wissen<br>
++6 Mana pro Tag, wenn das Artefakt ununterbrochen ausgerüstet wird<br><br><color=purple>
+Sar-Issus Insignien<color_default><br>
++100% Zauberkraft & Mana für verbündete Kreaturen (2/4)<br>
++4 Zauberkraft (4/4)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.<br><br><color=orange>
+Quest<color_default><br>
+Bringe alle 4 Sar-Issus Insignien zu einem Astrologen um eine einzigartige Belohnung zu erhalten.

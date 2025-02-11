@@ -1,0 +1,3 @@
+﻿<h4> Bastionshelden können hier ihre Talismane aufwerten, um neue Abenteuerzauber zu erhalten.<br>
+
+<body_bright>Der Held <value=hero_name> hat nun <value=talisman_level>.

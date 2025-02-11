@@ -1,0 +1,1 @@
+﻿Bei allen Kreaturen unter der Herrschaft des Dämonenfürsten besteht eine 30%ige Wahrscheinlichkeit, beim Angriff zusätzlichen Feuerschaden zu verursachen. Wenn es ausgelöst wird, verursacht Höllenfeuer Feuerschaden in Höhe von 15 + 15*Zauberkraft und entzieht 4 Mana.

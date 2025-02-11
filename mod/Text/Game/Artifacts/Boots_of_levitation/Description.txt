@@ -1,0 +1,1 @@
+﻿Gewährt die Fähigkeit, auf Wasser zu gehen und Geländeabzüge vollständig zu ignorieren. Die Bewegungskosten pro Feld werden um 25 reduziert (außer bei der Reise auf Straßen).<br><br><color=red>Schwebend<color_default><br>Die Landkunde- & Kundschafterfähigkeiten haben keinen Effekt.

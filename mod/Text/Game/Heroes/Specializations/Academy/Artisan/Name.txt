@@ -1,0 +1,1 @@
+﻿Klasse: Verzauberer<br>Spezialisierung: Gremlinmeister<br><br><body_bright>Alle Gremlins, Gremlinmeister und Gremlinsaboteure in der Armee des Helden gewinnen +1 auf Angriff und Verteidigung für jeweils zwei Stufen des Helden, beginnend mit der ersten Stufe.<br><color_default>Beginnt mit der Fähigkeit Einfacher Angriff.

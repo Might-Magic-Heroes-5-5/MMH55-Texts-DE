@@ -1,0 +1,1 @@
+﻿Senkt den maximalen Schaden des Ziels auf seinen minimalen Schaden. Wenn das Ziel unter dem Einfluss des Zaubers Göttliche Kraft steht, wird es gereinigt.<br><color_default>Die Verringerung entspricht Zauberkraft*1% + 40%, 50%, 60% oder 70%, je nach Meisterschaftsstufe. Der Effekt kann 100% nicht überschreiten.

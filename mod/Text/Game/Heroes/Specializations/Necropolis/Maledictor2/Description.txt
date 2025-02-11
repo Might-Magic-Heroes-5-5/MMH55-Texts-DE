@@ -1,0 +1,1 @@
+﻿Seelentrinker: Der Zauber Leiden senkt nicht nur den Schaden der Kreatur, sondern verringert auch die Verteidigung der Kreatur um einen Betrag, der der Heldenstufe/3 entspricht, aufgerundet. Die Verringerung der Verteidigung entspricht der Dauer des Zauberspruchs und ist nicht kumulativ. Der Effekt geht verloren, wenn der Zauber durch einen anderen Fluchzauber ersetzt wird.

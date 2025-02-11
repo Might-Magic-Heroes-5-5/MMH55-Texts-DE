@@ -1,0 +1,1 @@
+﻿Die ausgewählte eigene Einheit erleidet weniger Schaden durch Angriffe aus der Entfernung.

@@ -1,0 +1,1 @@
+﻿Verleiht Immunität gegen Zauber der Stufe 1-<value=enchant> für <value=duration> Züge.

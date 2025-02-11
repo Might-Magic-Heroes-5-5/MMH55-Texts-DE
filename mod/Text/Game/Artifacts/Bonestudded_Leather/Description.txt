@@ -1,0 +1,3 @@
+﻿+5 Zauberkraft<br>
+-1 Moral<br><br><color=orange>
+Mumien<color_default><br>Verbrenne dieses Artefakt in einem Tempel, um einen Stapel Mumien zu beschwören. Die Größe des Stapels ist gleich 3*Anzahl der vergangenen Wochen.

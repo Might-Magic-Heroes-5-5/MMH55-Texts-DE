@@ -1,0 +1,1 @@
+﻿Abenteuerfähigkeit: Befindet sich ein Munitionswagen in der Armee des Helden, wird jeden Tag 1 Goblin zu seiner Armee hinzugefügt und der Held erhält 0,5 Gold pro Tag für jeden Goblin in seiner Armee.<br><color_default>Aufgewertete Goblins treten nur bei, wenn sie in der Armee vorhanden sind; Goblin-Fallensteller, wenn beide Aufwertungen vorhanden sind.

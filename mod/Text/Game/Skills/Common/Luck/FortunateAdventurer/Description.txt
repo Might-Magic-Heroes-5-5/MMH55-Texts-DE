@@ -1,0 +1,1 @@
+﻿Abenteuerfähigkeit: Der Held findet auf der Karte tendenziell 5%-25% mehr Rohstoffe und Gold. Schatztruhen enthalten 25%-50% mehr Gold. Das Einkommen aus Versorgungsnetzen wird im Durchschnitt um +1 Rohstoff oder +500 Gold pro wöchentlichem Lieferanten erhöht.

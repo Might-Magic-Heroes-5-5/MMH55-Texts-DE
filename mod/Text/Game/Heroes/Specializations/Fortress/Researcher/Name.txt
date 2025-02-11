@@ -1,0 +1,1 @@
+﻿Klasse: Runenmagier<br>Spezialisierung: Meister der Runen<br><br><body_bright>Mit jedem Stufenaufstieg kann der Held spontan einen weiteren Runenzauber erlernen. Die Chance liegt bei 25%.

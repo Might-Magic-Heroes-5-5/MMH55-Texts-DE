@@ -1,0 +1,1 @@
+﻿Klasse: Hexenmeister<br>Spezialisierung: Einschüchtern<br><br><body_bright>Feindliche Einheiten haben je nach Heldenstufe einen Malus auf die Initiative. Feindliche Initiative wird um 2% + 0,2% pro Heldenstufe reduziert.<br><color_default>Beginnt mit der Fähigkeit Einfache Destruktive Magie.

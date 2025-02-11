@@ -1,0 +1,1 @@
+﻿Wenn diese Kreatur einen Feind angreift, wird automatisch der Zauber "Leiden" (Stufe "Keine") auf das Ziel gewirkt.

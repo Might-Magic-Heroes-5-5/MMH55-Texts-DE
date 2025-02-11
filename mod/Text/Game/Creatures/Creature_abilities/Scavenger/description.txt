@@ -1,0 +1,1 @@
+﻿Diese Kreatur kann ihre Gesundheit und sogar ihre Einheiten wiederherstellen, indem sie die auf dem Schlachtfeld liegenden gegnerischen Leichen innerhalb ihrer Bewegungsreichweite verschlingt (aktivierte Fähigkeit). Die gewonnene Gesundheit entspricht 20% der Trefferpunkte des toten Stapels.

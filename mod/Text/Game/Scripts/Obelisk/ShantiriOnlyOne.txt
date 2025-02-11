@@ -1,0 +1,1 @@
+﻿Diese Shantiri-Scheibe ist durch eine Gruppe von Banditen schwer beschädigt und kann keine wertvollen Informationen liefern! Die Banditen sind noch in der Nachbarschaft, möchten Sie sie angreifen?<br><br>(Bedrohungsstufe: Herausfordernd)<br><br>OK = Accept<br>CANCEL = Refuse<br><br>Bei Ablehnung kann diese Herausforderung später angenommen werden.

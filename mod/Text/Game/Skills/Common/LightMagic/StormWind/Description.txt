@@ -1,0 +1,1 @@
+﻿Der Held ruft die Kräfte der Natur an, um feindliche fliegende Kreaturen zu beeinflussen. Die Initiative aller feindlichen fliegenden Kreaturen wird um 2 und ihre Geschwindigkeit um 1 verringert.

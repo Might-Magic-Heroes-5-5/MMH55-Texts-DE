@@ -1,0 +1,1 @@
+﻿Ein lebender Held wird den Zauber Vampirismus und ein Held der Nekropolis den Zauber Tote Erwecken erlenen. Der Held gewinnt +5 Zauberkraft beim Wirken von Zaubern der Dunkelmagie, aber diese Hingabe macht ihn zu einem Geächteten unter seinesgleichen (-1 Moralstrafe).<color_default><br>Der Moralverlust ist dauerhaft, selbst ein Gedächtnismentor kann ihn nicht aufheben.

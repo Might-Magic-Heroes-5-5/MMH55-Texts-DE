@@ -1,0 +1,1 @@
+﻿Steigert den Angriff um <value=enchant> für <value=duration> Züge.

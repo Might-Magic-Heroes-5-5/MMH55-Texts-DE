@@ -1,0 +1,1 @@
+﻿Möchten Sie dieses Gebäude zu Ihrer Fraktion konvertieren?<br><br>Costs:<br>Gold: <value=gold>, Holz: <value=wood>, Eisen: <value=ore>

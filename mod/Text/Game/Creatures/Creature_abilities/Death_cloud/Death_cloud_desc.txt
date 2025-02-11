@@ -1,0 +1,1 @@
+﻿Diese Kreatur schießt eine 3 mal 3 große Todeswolke: Zusätzlich zum normalen Schaden am Primärziel fügt die Todeswolke allen nicht untoten Kreaturen, die von ihr bedeckt werden, die Hälfte des Schadens zu.

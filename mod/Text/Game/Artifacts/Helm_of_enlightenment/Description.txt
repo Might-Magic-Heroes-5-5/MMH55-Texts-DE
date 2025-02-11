@@ -1,0 +1,4 @@
+﻿+3 Wissen<br>
++10% mehr Erfahrung<br><br><color=purple>
+Gewand der Erleuchtung<color_default><br>
+Der Held erhält jeden Tag eine Menge Erfahrung, wenn er sowohl den Turban als auch das Kettenhemd trägt. Der Betrag entspricht der Anzahl der vergangenen Tage * 10.

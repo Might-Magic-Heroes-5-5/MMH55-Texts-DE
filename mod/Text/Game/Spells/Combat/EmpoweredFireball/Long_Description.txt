@@ -1,0 +1,1 @@
+﻿Fügt allen Einheiten im Zielbereich Feuerschaden zu.

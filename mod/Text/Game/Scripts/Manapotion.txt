@@ -1,0 +1,1 @@
+﻿<color=yellow>Dein Mana wurde durch einen Trank wiederhergestellt!

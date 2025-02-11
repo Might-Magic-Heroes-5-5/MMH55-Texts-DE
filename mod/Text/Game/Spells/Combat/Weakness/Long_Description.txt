@@ -1,0 +1,1 @@
+﻿Schwächt den Angriff der ausgewählten gegnerischen Kreatur um einen Betrag, der von der Zauberkraft abhängt. Wenn das Ziel unter dem Einfluss des Zaubers Rechtschaffene Stärke steht, bleiben beide Effekte aktiv und der Unterschied in der Stärke der Zaubernden bestimmt das Ergebnis.

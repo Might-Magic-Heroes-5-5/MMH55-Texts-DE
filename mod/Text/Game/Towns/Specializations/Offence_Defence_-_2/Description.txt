@@ -1,0 +1,1 @@
+﻿Alle Feinde, welche diese Stadt angreifen, bekommen jeweils einen Abzug von -2 auf ihren Angriff und ihre Verteidigung.

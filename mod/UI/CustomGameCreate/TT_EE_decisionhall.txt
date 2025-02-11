@@ -1,0 +1,1 @@
+﻿Hier können Sie einstellen, wie lange es dauert, bis der Saal der Entscheidungen erscheint.

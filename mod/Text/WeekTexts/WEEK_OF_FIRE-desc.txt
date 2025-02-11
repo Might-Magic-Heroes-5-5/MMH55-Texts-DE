@@ -1,0 +1,1 @@
+﻿Der Schaden von Feuerzaubern wird in Kämpfen um 10% erhöht. Die Anzahl der beschworenen Feuerelementare erhöht sich um 50%.

@@ -1,0 +1,7 @@
+﻿+2 für alle Primärattribute<br><br><color=purple>
+Rüstung des vergessenen Helden<color_default><br>
++1 für alle Primärattribute (2/4)<br>
++2 für alle Primärattribute (4/4)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.<br><br><color=orange>
+Quest<color_default><br>
+Bringe alle 4 Teile von der Rüstung des vergessenen Helden zu einem Artefaktenhändler um eine einzigartige Belohnung zu erhalten.

@@ -1,0 +1,1 @@
+﻿Wenn die Wirkung des Kriegsrufs berechnet wird, gilt der Wert des Barbarenhelden um 10 höher als sein tatsächlicher Wert ist.

@@ -1,0 +1,1 @@
+﻿Klasse: Abtrünniger<br>Spezialisierung: Greifentrainerin<br><br><body_bright>Alle Greife, Königsgreife und Blutgreife in der Armee des Helden erhalten +1 Angriff und Verteidigung für je zwei Stufen des Helden, beginnend mit der ersten Stufe. Unaufgewertete Greifen erhalten die Fähigkeit Sturzflug.<br><color_default>Beginnt mit der Fähigkeit Geübter Angriff.

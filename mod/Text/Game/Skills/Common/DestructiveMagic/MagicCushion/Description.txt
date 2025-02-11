@@ -1,0 +1,1 @@
+﻿Der durch gegnerische Zauber verursachte Schaden wird um 20% reduziert.

@@ -1,0 +1,1 @@
+﻿Dies regelt die Menge der freien Ressourcenstapel in den Startgebieten der Spieler.

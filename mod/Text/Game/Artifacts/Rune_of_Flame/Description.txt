@@ -1,0 +1,3 @@
+﻿+2 Angriff<br>
++2 Mana nach jedem Kampf<br><br>
+Gewährt Zwergenhelden <value=spell_name>.

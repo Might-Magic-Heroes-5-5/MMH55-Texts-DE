@@ -1,0 +1,3 @@
+﻿-1 Moral für feindliche Kreaturen<br>
+-1 Glück für feindliche Kreaturen<br><br>
+Artefakte können dem Träger dieses Umhangs nicht gestohlen werden, auch nicht nach einer verlorenen Schlacht.

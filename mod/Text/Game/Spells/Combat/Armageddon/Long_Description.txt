@@ -1,0 +1,1 @@
+﻿Verursacht massiven Feuerschaden an allen Kreaturen und Kriegsgeräten auf einem Schlachtfeld und lokalen physischen Schaden am Einschlagpunkt.<br><color_default>Die Schadensformel für den zusätzlichen physischen Schaden ist die gleiche wie für einen Blitzstrahl.

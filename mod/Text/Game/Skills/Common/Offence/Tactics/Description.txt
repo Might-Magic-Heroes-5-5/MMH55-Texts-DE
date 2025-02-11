@@ -1,0 +1,1 @@
+﻿Vergrößert den Bereich, wo der Held seine Truppen vor Kampfbeginn aufstellen kann. Falls der Gegner ebenfall Taktik besitzt, heben sich beide Wirkungen auf.

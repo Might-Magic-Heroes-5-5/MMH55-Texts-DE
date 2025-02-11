@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Verteidigung, erlernt den Zauber Regeneration und die Armee des Helden kämpft bis zum bitteren Ende. Wenn der Feind die gesamte Armee tötet, überlebt der letzte Trupp den Angriff mit 1 Lebenspunkt. Letztes Gefecht wird für jeden Verbündetenstapel ausgelöst, sofern vor dem letzten Treffer mindestens 5 Kreaturen leben.

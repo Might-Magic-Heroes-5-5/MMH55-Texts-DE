@@ -1,0 +1,1 @@
+﻿Wandelt eigene Städte in die Fraktion des Helden um (kostet Ressourcen basierend auf der zugrundeliegenden Stadtstufe). Der Held muss vor der Stadt stehen. Städte mit Hauptstädten können nicht umgewandelt werden. Alle Stadtgebäude werden umgewandelt, mit Ausnahme von Sondergebäuden.

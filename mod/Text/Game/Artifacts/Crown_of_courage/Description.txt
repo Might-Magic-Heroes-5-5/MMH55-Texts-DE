@@ -1,0 +1,7 @@
+﻿+2 Moral<br>
++10 Wissen berechnet für alle aktiven Artefakte<br>
++10 Verteidigung berechnet für alle aktiven Artefakte<br><color_default>
+(Wirkt sich auf alle Artefakte aus, die auf diesem Helden aktiv sind und Ressourcen, Truppen oder wiederbelebende Kreaturen geben)<br><br><color=purple>
+Der Geist des Löwen<color_default><br>
++6 Angriff (3/3)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.

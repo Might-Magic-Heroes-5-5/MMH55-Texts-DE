@@ -1,0 +1,2 @@
+﻿Ermöglicht es (oder verbessert) der Magiergilde magische Kreaturen in die Garrisionen eigener Städte zu beschwören, das Artefakt funktioniert so, als würde man eine Menge an Drachenblut-Kristalle gleich des Wissens des Helden/2 hinzufügen<br><br><color=yellow>
+Rucksack<color_default><br>Das Artefakt funktioniert aus dem Rucksack, aber die Funktionalität ist auf ein Artefakt pro Held beschränkt.

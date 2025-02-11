@@ -1,0 +1,1 @@
+﻿Bewirkt, dass manche Kreaturen vergessen, was sie auf dem Schlachtfeld tun. Manche der Betroffenen vergessen zu schießen und sich zu wehren. Dieser Zauber reduziert außerdem die Rage von Orks um 30 pro Fähigkeitsstufe. (Der Zauber ist wirkungslos gegen untote, elementare und mechanische Einheiten.)

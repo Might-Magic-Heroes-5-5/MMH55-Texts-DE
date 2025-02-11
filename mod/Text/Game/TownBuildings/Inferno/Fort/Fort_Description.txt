@@ -1,0 +1,2 @@
+﻿Die Stadtmauer umgibt die Stadt mit einem Verteidigungswall.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Verteidigungsbonus von +1.

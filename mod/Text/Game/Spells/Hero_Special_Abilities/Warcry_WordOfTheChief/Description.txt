@@ -1,0 +1,1 @@
+﻿Indem er das Blut seiner Feinde vergießt, steigert der Held die Rage seiner Ork-Truppen erheblich, das feindliche Ziel wird betäubt (der ATB-Wert wird um 0,01 * die Heldenstufe reduziert und zusätzlich um 0,2, wenn der Held die Befähigung "Betäubender Schlag" hat). Dieser Kriegsschrei funktioniert nicht bei Feinden, die nicht bluten können (Untote, Elementare und Mechanische).

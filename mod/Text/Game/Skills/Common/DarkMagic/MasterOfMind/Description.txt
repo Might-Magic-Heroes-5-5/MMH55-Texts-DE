@@ -1,0 +1,1 @@
+﻿Der Held lernt den Zauberspruch Verlangsamung und erhält kollektive Effekte für die Zaubersprüche Verlangsamung und Verwirrung<br><color_default>Kollektivzauber kosten viermal so viel Mana. Der ATB-Wert des Helden wird nach dem Wirken eines Kollektivzaubers unabhängig von der Stufe der Zauberei auf 0,15 zurückgesetzt.

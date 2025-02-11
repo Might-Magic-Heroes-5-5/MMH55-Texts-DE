@@ -1,0 +1,8 @@
+﻿-------------------------------------------------------------------------------
+HANDELSPOSTEN
+-------------------------------------------------------------------------------
+
+Wählen Sie die gewünschte Art von Trank:
+
+OK = Manatrank kaufen (5000 Gold)
+Abbrechen = Bewegungstrank kaufen (10000 Gold)

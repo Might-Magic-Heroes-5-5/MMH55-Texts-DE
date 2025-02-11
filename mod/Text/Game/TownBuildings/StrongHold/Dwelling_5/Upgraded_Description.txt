@@ -1,0 +1,2 @@
+﻿<color_default>Aufwertung der Kammer des Zorns.<br>
+<color_bright>In der Kammer der Rage könnt Ihr Henker und Häuptlinge anwerben.

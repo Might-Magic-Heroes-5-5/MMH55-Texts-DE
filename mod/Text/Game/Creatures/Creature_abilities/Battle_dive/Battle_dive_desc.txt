@@ -1,0 +1,1 @@
+﻿Die Kreatur führt einen verzögerten Luftangriff auf ein ausgewähltes Feld auf dem Schlachtfeld aus und fügt dabei 50% mehr Schaden als üblich zu, auch wenn das Feld von einer verbündeten Einheit besetzt ist. Nach dem Angriff kehrt die Kreatur an einen zufällig gewählten Ort auf dem Spielfeld zurück (aktivierte Fähigkeit).

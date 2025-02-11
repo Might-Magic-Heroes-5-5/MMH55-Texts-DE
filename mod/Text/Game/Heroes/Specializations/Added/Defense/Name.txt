@@ -1,0 +1,1 @@
+﻿Klasse: Ingenieur<br>Spezialisierung: Kriegsschmied<br><br><body_bright>Der Held beginnt mit +1 Verteidigung und erhöht sie weiter um +1 für jeweils 7 Erfahrungsstufen.<br><color_default>Beginnt mit der Fähigkeit Geübtes Kriegsgerät.

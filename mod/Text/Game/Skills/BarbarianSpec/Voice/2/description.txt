@@ -1,0 +1,1 @@
+﻿Der Einsatz einer aktivierten Fähigkeit aus der Kategorie Kriegsruf verzögert die nächste Runde des Helden um 22% weniger, die Moral wird jedoch um -2 reduziert, wenn der Held die Befähigung Empathie besitzt.<br><color_default>Die Grundinitiative des Helden beträgt 10 und wird auf genau 12,85 erhöht, solange Kriegsrufe eingesetzt werden.

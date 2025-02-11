@@ -1,0 +1,1 @@
+﻿Bewirkt, dass die ausgewählte Einheit der eigenen Seite im Kampf häufiger agiert. Wenn das Ziel unter dem Einfluss des Zaubers Verlangsamen steht, bleiben beide Effekte aktiv und der Unterschied in der Stärke der Zaubernden bestimmt das Ergebnis.

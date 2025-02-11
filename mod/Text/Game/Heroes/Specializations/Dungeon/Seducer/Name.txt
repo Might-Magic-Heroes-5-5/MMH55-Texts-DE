@@ -1,0 +1,1 @@
+﻿Klasse: Overlord<br>Spezialisierung: Blutherrin<br><br><body_bright>Alle Blutjungfern, Blutfurien und Blutschwestern in der Armee des Helden erhalten +1 auf Angriff und Verteidigung für jeweils zwei Stufen des Helden, beginnend mit der ersten Stufe.<br><color_default>Beginnt mit der Fähigkeit Geübte Führungskraft.

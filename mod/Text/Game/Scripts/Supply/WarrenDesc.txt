@@ -1,0 +1,1 @@
+﻿Gewährt dem Spieler jede Woche eine zufällige Menge (3-7) einer zufälligen Ressource. Der Ressourcentyp ist niemals Holz oder Gold.

@@ -1,0 +1,1 @@
+﻿Ruft ein Schiff herbei. Der Held muss an einem Ufer stehen und es muss ein unbesetztes Schiff in der Nähe sein, damit der Zauber erfolgreich ist.<color_default><br>Es ist kein magisches Geschick erforderlich, um diesen Zauber zu erlenen.

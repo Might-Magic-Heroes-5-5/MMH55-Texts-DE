@@ -1,0 +1,1 @@
+﻿Jeder normale Heldenangriff verschiebt das Ziel auf der ATB-Leiste ein Stück zurück. Der ATB-Wert des Ziels wird um 0,2 verringert.

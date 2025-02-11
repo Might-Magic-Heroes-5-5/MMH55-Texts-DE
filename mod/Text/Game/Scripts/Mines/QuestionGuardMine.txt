@@ -1,0 +1,3 @@
+﻿Ihr habt diese Mine noch nicht mit Truppen bewacht, wollt ihr sie gegen eine einmalige Summe von <value=num> Gold bewachen?
+
+(Die Anzahl der Truppen, die an dieser Mine stationiert sind, wird automatisch erhöht, aber es ist nicht möglich, mit der Minengarnison zu interagieren. Wenn die Mine angegriffen wird, werden die Wachen vom Besitzer auf der Kampfkarte kontrolliert).

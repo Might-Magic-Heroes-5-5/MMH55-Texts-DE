@@ -1,0 +1,1 @@
+﻿Fügt mehreren (bis zu 4) benachbarten Kreaturen beginnend mit der ausgewählten massiven Blitzschaden zu. Jede Kreatur in der Kette erleidet die Hälfte des Schadens der vorherigen. Der Zauber kann auch eigene Kreaturen treffen.

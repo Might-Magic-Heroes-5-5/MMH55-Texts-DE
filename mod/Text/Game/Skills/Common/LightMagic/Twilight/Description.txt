@@ -1,0 +1,1 @@
+﻿Die Manaregeneration des Helden wird um 6 und die effektive Zauberkraft um 3 erhöht, wenn der Held Zauber der Dunkel- und Lichtmagie wirkt.

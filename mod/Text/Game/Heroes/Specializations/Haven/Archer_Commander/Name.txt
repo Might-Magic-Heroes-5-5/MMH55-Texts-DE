@@ -1,0 +1,1 @@
+﻿Klasse: Ritter<br>Spezialisierung: Bogenschützenkommandant<br><br><body_bright>Alle Bogenschützen, Scharfschützen und Armbrustschützen in der Armee des Helden erhalten ab der ersten Stufe +1 auf Angriff und Verteidigung für alle zwei Stufen des Helden hinzu, beginnend ab der ersten Stufe.<br><color_default>Beginnt mit der Fähigkeit Geübte Verteidigung.

@@ -1,0 +1,1 @@
+﻿Sobald eine gegnerische Kreatur sich innerhalb der Reichweite eines Feldes dieser Kreatur befindet, an der Reihe ist, erleidet sie Feuerschaden im Verhältnis zur Anzahl der Kreaturen im Stapel. Zu Beginn ihres Zuges erleidet jede gegnerische benachbarte Kreatur Stapelgröße*10 Feuerschaden.

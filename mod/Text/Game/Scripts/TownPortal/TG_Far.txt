@@ -1,0 +1,2 @@
+﻿<color=red>Der Gouverneur ist zu weit von seiner Stadt entfernt!
+

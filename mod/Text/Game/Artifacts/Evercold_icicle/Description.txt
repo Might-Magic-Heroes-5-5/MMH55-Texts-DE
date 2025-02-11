@@ -1,0 +1,3 @@
+﻿+20% Schaden für alle auf Kälte beruhenden Zauber<br>
++2 Mana pro Tag wenn das Artefakt ununterbrochen getragen wird<br><color_default>
+Die Schadenserhöhung betrifft Eisblitz, Eisring und Einfrieren.

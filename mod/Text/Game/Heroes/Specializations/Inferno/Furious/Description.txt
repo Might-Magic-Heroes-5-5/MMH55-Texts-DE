@@ -1,0 +1,1 @@
+﻿Aura der Schnelligkeit: Die Initiative aller Kreaturen in der Armee des Helden wird um 2,5% + 0,25% pro Heldenstufe erhöht.

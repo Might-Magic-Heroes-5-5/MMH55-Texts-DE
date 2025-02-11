@@ -1,0 +1,2 @@
+﻿+3 Verteidigung<br>
++100 Erfahrung nach jedem Kampf

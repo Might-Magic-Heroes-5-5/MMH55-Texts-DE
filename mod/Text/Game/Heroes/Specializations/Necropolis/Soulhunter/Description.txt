@@ -1,0 +1,1 @@
+﻿Geisterwandler: Jedes Mal, wenn eine Gruppe von feindlichen Kreaturen stirbt, wird sie für die Dauer des Kampfes durch eine Gruppe von verbündeten Geistern ersetzt. Die Anzahl der Geister ist gleich der Heldenstufe. Die Anzahl der Geister ist gleich der Stufe des Helden.

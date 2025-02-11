@@ -1,0 +1,11 @@
+﻿-----------------------------------------------------------------------------
+RÜCKTRITT DES GOUVERNEURS
+-----------------------------------------------------------------------------
+
+Der Held wird seine Arbeit als Gouverneur dieser Stadt niederlegen, alle damit verbundenen Boni einbüßen und alle seine Bewegungspunkte außerhalb des Stadtradius zurückgewinnen.
+
+Geldstrafe bei vorzeitigem Rücktritt: <value=fine>
+
+OK = Gouverneur zurücktreten
+Abbrechen = Gouverneur bleiben
+

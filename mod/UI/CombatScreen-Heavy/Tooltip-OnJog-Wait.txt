@@ -1,0 +1,1 @@
+﻿Warten - Verzögert den Zug dieser Kreaturen um 50%. <hotkey=input_Combat_Wait>

@@ -1,0 +1,1 @@
+﻿Der Held erwirbt den Kollektivzauber Geschosse ablenken auf geübter Stufe, es sei denn, der Held verfügt über Meisterliche Lichtmagie.<br><color_default>Der ATB-Wert des Helden wird nach dem Wirken eines Kollektivzaubers unabhängig von der Stufe der Zauberei auf 0,15 zurückgesetzt.

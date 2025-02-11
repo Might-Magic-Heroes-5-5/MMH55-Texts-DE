@@ -1,0 +1,1 @@
+﻿Ermöglicht Kreaturen der Bastion in der Armee des Helden, die zweiten Stufe der Rage zu erreichen, was ihnen entsprechende Vergünstigungen im Kampf einbringt. Die erworbene Blutrage absorbiert 25% des von Kreaturen erlittenen Schadens, bis die gesamte Rage aufgebraucht ist.

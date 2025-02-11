@@ -1,0 +1,1 @@
+﻿Pfundskerl: Der Held greift gleich zu Beginn des Kampfes eine zufällige gegnerische Kreatur an. Außerdem verursachen alle Angriffe des Helden +1% Schaden für jede Stufe des Helden.

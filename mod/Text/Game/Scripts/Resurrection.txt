@@ -1,0 +1,1 @@
+﻿<color=green><value=num> Kreaturen wurden wiederbelebt.

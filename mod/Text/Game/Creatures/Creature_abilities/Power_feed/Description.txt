@@ -1,0 +1,1 @@
+﻿Diese Kreatur kann die Zauberkraft des Helden um ihren eigenen Zauberkraftwert erhöhen, jedoch nicht mehr als das Wissen des Helden. Es wird eine weitere Kreatur mit der Fähigkeit Mana abzapfen auf dem Schlachtfeld benötigt, um die hohen Manakosten zu decken. Der Effekt hält bis zum Ende des Kampfes oder bis zum Tod der Kreatur an und ist nicht kumulativ (aktivierte Fähigkeit).

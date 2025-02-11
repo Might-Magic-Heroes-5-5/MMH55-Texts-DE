@@ -1,0 +1,3 @@
+﻿Steigert die Fähigkeit Nekromantie aller Helden des Spielers um 5% und stellt ihnen weitere 100 Dunkelenergiepunkte zur Verfügung (zusätzlich für jede Stadt).<br><br>
+Todesritter und Nethermagier ohne die Fähigkeit Nekromantie erhalten +2 Manaregeneration pro Tag (zusätzlich für jede Stadt).<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Wissens-Bonus von +2.

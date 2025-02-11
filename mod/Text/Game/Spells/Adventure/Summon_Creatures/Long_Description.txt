@@ -1,0 +1,1 @@
+﻿Teleportiert Kreaturen aus der nächstgelegenen Stadt zum Helden für den Preis von 1 Mana pro Kreatur.<color_default><br>Dieser Zauber erfordert Stufe 5, um erlernt zu werden. Es ist kein magisches Geschick erforderlich.

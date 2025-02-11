@@ -1,0 +1,4 @@
+﻿+1 Verteidigung<br>
++5 Wissen wird für alle aktiven Artefakte berechnet<br>
++5 Verteidigung wird für alle aktiven Artefakte berechnet<br><color_default>
+(Betrifft alle Artefakte, die auf diesem Helden aktiv sind und Ressourcen, Truppen oder wiederbelebende Kreaturen geben)

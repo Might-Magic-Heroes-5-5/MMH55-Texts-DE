@@ -1,0 +1,1 @@
+﻿Waldwächter: Der Held beginnt mit +1 Verteidigung und erhöht sie weiter um +1 für jeweils 7 Erfahrungsstufen.

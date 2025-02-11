@@ -1,0 +1,1 @@
+﻿Eine besondere Kampffähigkeit, die allen beschworenen und herbeigerufenen Kreaturen schweren Schaden zufügt. Der Schaden entspricht 120 + (40 * Heldenstufe). Der ATB-Wert des Helden wird nach der Anwendung auf 0,33 zurückgesetzt.

@@ -1,0 +1,1 @@
+﻿Kampferprobt: Das Wissen des Helden erhöht sich ebenfalls um +1 pro 7 Erfahrungsstufen und alle Erfahrung, die ein Held nach einer Schlacht gewinnt, wird um 2% pro Heldenstufe erhöht.

@@ -1,0 +1,1 @@
+﻿Schneller Angreifer: Kreaturen in der Armee des Helden haben zu Beginn des Kampfes einen Bonus von +0,5% pro Heldenstufe auf ihre Initiative.

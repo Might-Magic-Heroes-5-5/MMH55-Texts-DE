@@ -1,0 +1,1 @@
+﻿Die Zauberkraft des Helden verbessert die Effektivität (Dauer, Schaden usw.) der vom Helden gewirkten Zauber; das genaue Verhältnis hängt vom Zauber ab.

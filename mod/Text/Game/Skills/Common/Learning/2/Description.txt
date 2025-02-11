@@ -1,0 +1,1 @@
+﻿Der Held gewinnt +2 Wissen und verbessert ein zufälliges Primärattribut um +1 für alle 5 Stufen, einschließlich der bereits gewonnenen Stufen. Der Held gewinnt auch 10% mehr Erfahrung.

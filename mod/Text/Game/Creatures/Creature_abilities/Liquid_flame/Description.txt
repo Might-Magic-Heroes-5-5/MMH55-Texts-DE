@@ -1,0 +1,1 @@
+﻿Während eines Angriffs fügt diese Kreatur nicht nur dem Ziel, sondern auch jeder anderen gegnerischen Einheit, die sich direkt dahinter befindet, vollen Schaden zu und hinterlässt eine Feuerwand auf den beiden Kacheln in Angriffsrichtung. Die Feuerwand fügt allen Einheiten (Freund oder Feind) 2 Runden lang eine Menge Feuerschaden in Höhe der Stapelgröße*10 zu.

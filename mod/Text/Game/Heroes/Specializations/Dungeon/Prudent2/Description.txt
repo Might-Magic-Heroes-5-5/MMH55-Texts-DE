@@ -1,0 +1,1 @@
+﻿Einschüchtern: Feindliche Einheiten haben je nach Heldenstufe einen Malus auf die Initiative. Feindliche Initiative wird um 2% + 0,2% pro Heldenstufe reduziert.

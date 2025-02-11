@@ -1,0 +1,1 @@
+﻿Die Meisterschaftsstufe aller gegnerischen Zauber der Dunkelmagie wird um 2 herabgesetzt. Die Zauberkraft wird ebenfalls um 25% gesenkt, und zwar für jede Stufe, in der ein Zauber unter die Stufe Null fällt.

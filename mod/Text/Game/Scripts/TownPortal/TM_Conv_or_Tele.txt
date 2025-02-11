@@ -1,0 +1,31 @@
+﻿-------------------------------------------------------------------------------
+NÄCHSTE AKTION
+-------------------------------------------------------------------------------
+
+OK = Diese Stadt umwandeln 
+Abbrechen = Stadttor benutzen (25 Mana, Bewegung 2000)
+
+*Der Held kann sich nur in Städte mit einer Magiergilde der Stufe 5 teleportieren. Drücke OK und dann Abbrechen, wenn Ihr nichts tun wollt.
+
+-------------------------------------------------------------------------------
+HELDENINFO
+-------------------------------------------------------------------------------
+
+Heldenrolle: <value=occupation>
+Bewegungspunkte: <value=movement>
+Tägliche Manaregeneration: <value=mana>
+Tägliches zusätzliches Goldeinkommen: <value=estates>
+Drachenblutkristalle: <value=dragonblood>
+Wöchentliche Verstärkungen aus Artefakten: T<value=artifactsummons_tier>:<value=artifactsummons> 
+Wöchentlich beschworene Kreaturen: <value=summons>
+Wöchentliche Rekrutierungen (Verwaltung): T1:<value=tier1> T2:<value=tier2> T3:<value=tier3> T4:<value=tier4> T5:<value=tier5> T6:<value=tier6> T7:<value=tier7>
+
+-------------------------------------------------------------------------------
+KARTENEINSTELLUNGEN
+-------------------------------------------------------------------------------
+
+Verwaltung: <value=governance>
+Stadtumwandlung: <value=conversion>
+Max Städte pro Fraktion: <value=maxtowns>
+Max Gebäude pro Fraktion: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d> 
+Maximale Militärposten pro Fraktion: <value=t4d>

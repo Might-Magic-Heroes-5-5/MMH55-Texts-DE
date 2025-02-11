@@ -1,0 +1,3 @@
+﻿+2 Zauberkraft<br>
+Ermöglicht das Wirken von dem Zauber <value=spell_name> von diesem Zauberstab auf Geübter Stufe (es sei denn, die Fähigkeitsstufe des Helden ist höher). Der Zauberstab hat eine begrenzte Anzahl von Aufladungen und kann in einer Magiergilde wieder aufgeladen werden (benutzt <value=charges_cur>/<value=charges_max>)
+<br><color_default>Häuptlinge können den Zauber nicht wirken, dafür erhalten sie einen Zauberkraft-Bonus.

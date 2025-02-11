@@ -1,0 +1,1 @@
+﻿Der König sammelte <value=number> Gold in Steuern von Ihrem Einkommen

@@ -1,0 +1,1 @@
+﻿Diese Kreatur fügt allen Gegnern, die in der Nähe ihres Ziels stehen, Schaden zu, der Schaden, der durch einen solchen Angriff verursacht wird, wird zu gleichen Teilen zwischen den Zielen aufgeteilt. Dieser Effekt funktioniert nicht bei Gegenwehr.

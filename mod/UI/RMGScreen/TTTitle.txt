@@ -1,0 +1,1 @@
+﻿WARNUNG! Sie müssen die MMH55_Utility.exe oder die MMH55_Editor.exe zum Generieren zufälliger Karten verwenden, aber verwenden Sie die MMH55.exe oder die MMH55_64.exe zum Abspielen der Karte. Wenn Sie die Ressourcen/Erfahrungseinstellungen nicht verwenden können, dann ist dies die falsche .exe-Datei zum Generieren von Karten! (aber die richtige, um sie zu spielen)

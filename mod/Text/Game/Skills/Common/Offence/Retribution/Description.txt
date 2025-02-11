@@ -1,0 +1,1 @@
+﻿Alle Truppen unter der Herrschaft des Helden richten erhöhten Schaden an, wenn ihre Moral positiv ist (+2% für jeden Moralpunkt). Der Bonus ist auf 20% limitiert. Für Nekropolshelden wird der Angriff um +2 erhöht.

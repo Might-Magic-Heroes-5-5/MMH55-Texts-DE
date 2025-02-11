@@ -1,0 +1,1 @@
+﻿Lässt alle gegnerischen Einheiten im Kampf weniger Aktionen ausführen. Wenn das Ziel unter dem Einfluss des Zaubers Eile steht, bleiben beide Effekte aktiv und der Unterschied in der Stärke der Zaubernden bestimmt das Ergebnis.

@@ -1,0 +1,1 @@
+﻿Der neue Khan: Alle Zyklopen, Ungebändigten Zyklopen und Blutäugigen Zyklopen können sofort handeln, wenn der Kampf beginnt. Außerdem werden zu Beginn jeder Woche mehr solcher Kreaturen in allen Städten der Bastion zur Rekrutierung verfügbar sein. Die Menge entspricht 0,04*Heldenstufe. Es gibt keine zusätzlichen Kreaturen vor Stufe 13.

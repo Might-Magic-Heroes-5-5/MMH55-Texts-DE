@@ -1,0 +1,1 @@
+﻿Fügt der ausgewählten Einheit magischen Schaden zu, der von der Anzahl der von dieser Einheit seit Beginn des Kampfes getöteten Feinde abhängt.

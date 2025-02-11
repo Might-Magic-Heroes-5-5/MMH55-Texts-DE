@@ -1,0 +1,1 @@
+﻿Erhöht Initiative um <value=initiative_bonus>% und Moral, Angriff und Verteidigung um <value=enchant> für <value=duration> Runden.

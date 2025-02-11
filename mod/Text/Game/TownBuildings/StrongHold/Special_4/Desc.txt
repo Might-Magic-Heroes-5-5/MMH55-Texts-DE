@@ -1,0 +1,2 @@
+﻿Verbessert die Fertigkeit Blutrage und gibt der Armee der Stammesführer zu Beginn eines Kampfes 50 Ragepunkte. Schamanen & Hexen gewinnen dauerhaft +1 Wissen (kumulativ mit mehreren Städten).<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Angriffs-Bonus von +2.

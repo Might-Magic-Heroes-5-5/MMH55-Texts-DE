@@ -1,0 +1,1 @@
+﻿Der Held erwirbt das Artefakt Hilfsmittel des Pfadfinders und wird beim Reisen nicht mehr durch Geländemalus belastet. <color_default><br>Nekropolis- und Akademiehelden erhalten nur den Geländebonus.

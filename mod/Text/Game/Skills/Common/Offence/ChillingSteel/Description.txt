@@ -1,0 +1,1 @@
+﻿Alle Kreaturen unter der Herrschaft des Helden (nicht nur untote) verursachen zusätzlichen Kälteschaden im Angriff. Das Ziel erleidet zusätzlichen elementaren Wasserschaden in Höhe von 10% des ursprünglich zugefügten Schadens.

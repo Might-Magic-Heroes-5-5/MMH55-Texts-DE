@@ -1,0 +1,1 @@
+﻿Beschwört einen Phantomdrachen auf das Schlachtfeld, der an der Seite des Helden kämpft. Es kann immer nur ein Drache gleichzeitig beschworen werden. Angriff, Verteidigung, LP, Initiative und Geschwindigkeit des Drachens hängen von der Zauberkraft und der Stufe des Zaubernden ab. Der ATB-Wert des Helden wird nach der Ausführung auf 0,33 zurückgesetzt.

@@ -1,0 +1,1 @@
+﻿Der Held erhält +1 Wissen und verdient 0,5 Gold pro Tag für jedes Skelett in seiner Armee. Nekropolis-Helden erwecken außerdem jede Woche eine zusätzliche Menge an Skeletten. Die Menge ist gleich ihrem Wissen.

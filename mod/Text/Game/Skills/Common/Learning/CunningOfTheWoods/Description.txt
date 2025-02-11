@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Verwirrung, erhält +1 Wissen, und die Wahrscheinlichkeit, mit Hilfe der Befähigung Mal des Rächers einen kritischen Treffer zu erzielen, erhöht sich um +10%.

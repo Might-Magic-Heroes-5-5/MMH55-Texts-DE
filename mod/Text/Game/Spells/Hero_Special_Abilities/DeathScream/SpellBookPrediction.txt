@@ -1,0 +1,1 @@
+﻿Senkt Initiative um <value=initiative_bonus>%, Moral und Glück um <value=enchant> für <value=duration> Runden.

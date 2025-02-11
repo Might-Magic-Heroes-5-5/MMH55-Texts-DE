@@ -1,0 +1,1 @@
+﻿Fügt allen lebenden Kreaturen auf dem Schlachtfeld mit Ausnahme von Untoten, Elementarwesen, Orks und infernalischen Kreaturen unheiligen Schaden zu. (Dunkelelfen sind nicht immun)

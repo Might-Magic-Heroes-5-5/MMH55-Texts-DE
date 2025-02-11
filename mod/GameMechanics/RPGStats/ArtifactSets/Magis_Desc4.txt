@@ -1,0 +1,1 @@
+﻿Verdopplelt das Mana und die Zauberkraft von allen zaubernden Kreaturen in der Armee des Helden. Während der Held einen Zauber wirkt wird er um 10% weniger rückwärts entlang der Initiativleiste bewegt. Seher, Magier, Elementarmagier haben ihre Zauberkraft um +4 erhöht.

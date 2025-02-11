@@ -1,0 +1,1 @@
+﻿Zauberer können Artefakte erschaffen und damit Akademie-Kreaturen stärken. Diese Artefakte werden in einem besonderen Beutel aufbewahrt. Nur Akademie-Kreaturen können auf diesem Weg verzaubert werden.

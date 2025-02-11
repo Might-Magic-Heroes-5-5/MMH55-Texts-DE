@@ -1,0 +1,1 @@
+﻿Baut Boote, um das Meer zu überqueren. Die Bewegung über Wasser kostet nur 75 Punkte pro Feld.

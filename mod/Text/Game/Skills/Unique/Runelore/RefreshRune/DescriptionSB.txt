@@ -1,0 +1,1 @@
+﻿Erlaubt eine zuvor platzierte Rune (zufällig ausgewählt, wenn es viele sind) auf einer ausgewählten Kreatur auffrischen. Der Held verbringt nur eine halbe Runde damit, eine Rune aufzufrischen. Sobald die Rune auf einer Kreatur aufgefrischt wurde, ist sie wieder zu den normalen Kosten verfügbar.

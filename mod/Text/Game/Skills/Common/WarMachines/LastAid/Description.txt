@@ -1,0 +1,1 @@
+﻿Das Erste-Hilfe-Zelt erhält die Fähigkeit, feindlichen Kreaturen Schaden zuzufügen. Der verursachte Schaden entspricht der Heilkraft des Zeltes. Die Benutzung des Seuchenzeltes verbraucht keine Heilkraft, die Kraft des Seuchenzeltes wird aber aufgebraucht, wenn keine Heilkraft mehr vorhanden ist.

@@ -1,0 +1,1 @@
+﻿Teleportiert die ausgewählte eigene Einheit zu einer anderen Stelle auf dem Schlachtfeld. (Das Teleportieren über eine Stadtmauer ist nur mit Meisterlicher Lichtmagie möglich).

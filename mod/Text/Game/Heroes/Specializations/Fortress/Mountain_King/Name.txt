@@ -1,0 +1,1 @@
+﻿Klasse: Runenmagier<br>Spezialisierung: König der Steinhallen<br><br><body_bright>Alle Kreaturen in der Armee des Helden haben den Effekt "Rune der Magiekontrolle" permanent aktiv (wird zu Beginn des Zuges der Kreatur aufgefrischt)

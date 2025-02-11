@@ -1,0 +1,3 @@
+﻿+6 Zauberkraft<br>
++6 Wissen<br><br><color=yellow>Urzeitliche Wächter<br><color_default>
+Beschwört jede Woche einen Phönix in der Garnison jeder eigenen Stadt, die der gleichen Gesinnung wie der Held angehört. Dieser Effekt funktioniert auch, wenn sich das Artefakt im Rucksack befindet.

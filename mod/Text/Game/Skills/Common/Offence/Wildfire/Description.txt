@@ -1,0 +1,1 @@
+﻿Die Balliste unter dem Kommando des Helden ignoriert 50% der gegnerischen Verteidigung und fügt zusätzlichen Feuerschaden zu. Die Menge pro Schuss entspricht der Stufe des Helden. Nach dem Kampf wird eine zerstörte Balliste in der Armee des Helden wiederhergestellt.

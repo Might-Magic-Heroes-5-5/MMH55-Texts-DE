@@ -1,0 +1,1 @@
+﻿<left>Euer Held gewinnt <value=exp> Erfahrung.

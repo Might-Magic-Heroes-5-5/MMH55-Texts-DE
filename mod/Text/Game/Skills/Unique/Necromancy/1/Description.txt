@@ -1,0 +1,1 @@
+﻿Abenteuerfähigkeit: Der Held kann 10% der gefallenen feindlichen Kreaturen als Untote erwecken, begrenzt durch die wöchentlich verfügbare Menge an dunkler Energie.<br><color_default>Die Grundmenge an dunkler Energie beträgt 400. Die Menge an dunkler Energie, die durch diese Fertigkeit hinzugefügt wird, entspricht 1*(Heldenstufe-5)^1,4.

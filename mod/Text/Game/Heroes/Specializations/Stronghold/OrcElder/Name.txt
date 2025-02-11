@@ -1,0 +1,1 @@
+﻿Klasse: Häuptling<br>Spezialisierung: Klinge des Khan<br><br><body_bright>Schlächter, Henker und Häuptlinge in der Armee des Helden gewinnen +1 zu ihrem Angriff und ihrer Verteidigung für jede der beiden Stufen des Helden, beginnend mit der ersten Stufe.<br><color_default>Beginnt mit der Fähigkeit Einfache Führungskraft.

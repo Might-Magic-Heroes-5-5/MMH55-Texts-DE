@@ -1,0 +1,1 @@
+﻿Wenn es in der Armee des Helden eine Kreatur mit dieser Fähigkeit gibt, braucht der Held 5% weniger Mana, um Zauber zu wirken. Die Kostenreduzierung wird aufgerundet, so dass sie immer um mindestens 1 Mana beträgt.

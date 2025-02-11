@@ -1,0 +1,1 @@
+﻿Diese Kreatur ist immateriell, also haben nichtmagische Angriffe nur eine 50%ige Wahrscheinlichkeit, Schaden anzurichten. Die Fähigkeit ist nicht völlig zufällig, nach zweimaligem Fehlschlag wird der nächste physische Schlag immer Schaden anrichten, während nach zweimaligem Treffer der nächste physische Schlag immer daneben geht.

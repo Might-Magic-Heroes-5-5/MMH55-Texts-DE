@@ -1,0 +1,1 @@
+﻿Es gibt mehr menschliche Spieler auf der Karte. Möchten Sie sich mit ihnen gegen die KI-Spieler verbünden? (Drücken Sie immer auf Abbrechen, wenn diese Karte ihre eigenen Team-Einstellungen hat!)

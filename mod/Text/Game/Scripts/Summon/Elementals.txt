@@ -1,0 +1,1 @@
+﻿Der Orb hat sich im Magischen Brunnen aufgelöst und <value=num> Elementare beschworen.

@@ -1,0 +1,1 @@
+﻿Mutter Erde verflucht den Boden, auf dem feindliche Kreaturen wandeln. Jedes Mal, wenn sich eine nicht fliegende gegnerische Kreatur bewegt, erhält sie Schaden in Höhe von Heldenstufe * 10.<br><color_default>Der Schaden erfolgt nicht pro Feld und funktioniert nicht, wenn sich die Kreatur nur dreht. 

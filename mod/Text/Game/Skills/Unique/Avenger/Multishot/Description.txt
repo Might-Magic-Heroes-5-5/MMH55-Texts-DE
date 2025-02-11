@@ -1,0 +1,1 @@
+﻿Befähigt dem Helden, alle feindlichen Kreaturen, die sich auf der Liste seiner Erzfeinde befinden, zugleich anzugreifen. Der an jedem Ziel verursachte Schaden ist höher als der normale direkte Schaden des Helden, mit einem +3 Bonus zu seiner Stufe für die Berechnung.

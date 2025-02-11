@@ -1,0 +1,1 @@
+﻿<color=yellow>Sie haben den Obelisken entziffert und er hat Ihnen den Standort einer vergessenen Krypta enthüllt. Möchten Sie ihn auf ihre Schätze untersuchen?<br><br>(Bedrohungsstufe: Herausfordernd)<br><br>OK = Accept<br>CANCEL = Refuse<br><br>Bei Ablehnung kann diese Herausforderung später angenommen werden.

@@ -1,0 +1,5 @@
+﻿Der Seher ist ein begeisterter Sammler antiker Artefakte, vermutet jedoch, dass einige der in diesen Ländern im Umlauf befindlichen Objekte verzauberte Fälschungen gewesen sein könnten. Daher bittet er Sie, ihm eine Menge ähnlicher Gegenstände für seine Forschungen mitzubringen.
+
+ Derzeit sucht er<color=white><value=qty> <value=type><color_default> 
+
+Der Seher hat nach Ihrer Rückkehr verschiedene Belohnungen zu bieten.

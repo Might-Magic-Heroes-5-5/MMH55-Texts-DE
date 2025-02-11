@@ -1,0 +1,1 @@
+﻿Eine besondere Kampffähigkeit, die alle verbündeten Kreaturen betrifft und Angriff, Verteidigung und Moral um 2 und die Initiative um 10% erhöht. Die Dauer des Effekts beträgt 2+0.1*(Heldenstufe) Runden (wirkt nicht auf Untote oder mechanische Kreaturen). Der ATB-Wert des Helden wird nach der Anwendung auf 0,15 zurückgesetzt.

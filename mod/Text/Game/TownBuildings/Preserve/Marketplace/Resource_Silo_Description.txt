@@ -1,0 +1,2 @@
+﻿<color_default>Aufwertung des Marktplatzes.<br>
+<color_bright>Der Vorratsspeicher gibt Euch jeden Tag zusätzlich 1 Edelstein.

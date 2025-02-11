@@ -1,0 +1,1 @@
+﻿Wächter von Sheogh: Der Held startet mit +1 Moral und zu Beginn jeder Woche werden zusätzliche Teufel, Erzteufel und Erzdämonen für die Rekrutierung in allen Infernostädten zur Verfügung stehen. Die Anzahl entspricht 0.04*Heldenlevel. Es gibt keine zusätzlichen Kreaturen vor Level 13.

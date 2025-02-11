@@ -1,0 +1,1 @@
+﻿Teleportiert den Helden und seine gesamte Armee an einen anderen Ort auf der Karte. Kostet 1250 Bewegungspunkte.<color_default><br>Dieser Zauber erfordert Stufe 20, um erlernt zu werden. Es ist kein magisches Geschick erforderlich.

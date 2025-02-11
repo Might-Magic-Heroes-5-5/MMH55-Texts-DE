@@ -1,0 +1,2 @@
+﻿Es besteht eine gewisse Chance, dass diese Kreatur während eines Nahkampfangriffs zusätzlich zum normalen Schaden einen der folgenden Zauber wirkt: Verlangsamung, Schwäche oder Raserei. (Der Zauber wirkt nicht auf untote, elementare und mechanische Einheiten.) Die Chance für diese Fähigkeit beträgt 34% wenn der Zielstapel nach dem Treffer die doppelte Menge an HP hat, 39% wenn der Zielstapel die gleichen HP hat und 52% wenn der Zielstapel die Hälfte der HP hat. Wenn der Held die Fähigkeit "Soldatenglück" hat, beträgt diese Chance 57%, 63% und 77%.
+ 

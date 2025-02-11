@@ -1,0 +1,1 @@
+﻿Alle neutralen Kreaturen, die sich der Armee des Nekromanten anschließen, werden automatisch in die untoten Kreaturen ihrer jeweiligen Stufe verwandelt. Im Gegensatz zum Schrein der Unterwelt werden aufgewertete Kreaturen in aufgewertete untote Kreaturen verwandelt.

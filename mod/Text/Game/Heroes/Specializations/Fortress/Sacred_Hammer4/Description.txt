@@ -1,0 +1,1 @@
+﻿Betrüger: Jedes Mal, wenn der Held einen Lichtzauber auf eine befreundete Kreatur ausübt, besteht die Chance, dass der Zauber Rechtschaffende Stärke umsonst auf die betroffene Einheit wirkt. Die Chance beträgt 40%+Stufe*1%.

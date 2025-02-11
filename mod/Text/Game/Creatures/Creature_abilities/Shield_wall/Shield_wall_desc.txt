@@ -1,0 +1,1 @@
+﻿Der Schaden, den diese Kreatur durch einen feindlichen Angriff erleidet, wird für jedes Feld, das der Angreifer bis zum Treffer gelaufen ist, um 10% reduziert. Die Schadensreduzierung ist auf 80% begrenzt.

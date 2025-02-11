@@ -1,0 +1,9 @@
+﻿+2 Verteidigung<br>
++2 Wissen<br>
++10% Initiative für alle verbündeten fliegenden Kreaturen<br><br><color=purple>
+Macht der Drachen<color_default><br>
++2 für alle Primärattribute (4/8)<br>
++4 für alle Primärattribute (8/8)<br>
+*Der Set-Bonus wird nach dem Schließen des Inventarbildschirms angewendet.<br><br><color=orange>
+Quest<color_default><br>
+Bring alle 8 Teile der Drachenrüstung zu einem Opferaltar um eine einzigartige Belohnung zu erhalten.

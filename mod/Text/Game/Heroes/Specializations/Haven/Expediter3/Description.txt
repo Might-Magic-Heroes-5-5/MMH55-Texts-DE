@@ -1,0 +1,1 @@
+﻿Magie der Silberstädte: Die Zauberkraft des Helden erhöht sich um +1 für alle 7 Stufen und die Wirkung des Zaubers Eile wird für jede Heldenstufe um 0,15% erhöht.

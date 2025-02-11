@@ -1,0 +1,1 @@
+﻿Sensenmann: Der Held erhält nach jedem Kampf 100 Bewegungspunkte zurück und zu Beginn jeder Woche werden in allen eigenen Nekropolisstädten zusätzliche Geister, Totengeister und Todesfeen zur Rekrutierung zur Verfügung stehen. Der Betrag entspricht 0,08*Heldenstufe. Vor Stufe 7 sind keine zusätzlichen Kreaturen verfügbar.

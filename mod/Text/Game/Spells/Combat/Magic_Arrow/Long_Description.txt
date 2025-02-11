@@ -1,0 +1,1 @@
+﻿Schießt einen magischen Pfeil ab, der der ausgewählten gegnerischen Kreatur Nicht-Elementarschaden zufügt.

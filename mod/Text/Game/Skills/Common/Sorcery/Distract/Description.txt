@@ -1,0 +1,1 @@
+﻿Der gegnerische Held bekommt einen Abzug von 0,15% auf seine Initiative, wenn er einen Zauber im Kampf wirkt.

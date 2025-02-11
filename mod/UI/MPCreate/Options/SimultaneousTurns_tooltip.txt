@@ -1,0 +1,1 @@
+﻿Wenn Sie diese Option wählen, können Sie permanent simultane Spielzüge durchführen. Simultane Spielzüge werden nicht unterbrochen, wenn sich die Helden in der Nähe voneinander befinden. Wenn Sie andere Spieler angreifen, während diese den Stadtbildschirm benutzen, verlieren Sie Bewegungspunkte.

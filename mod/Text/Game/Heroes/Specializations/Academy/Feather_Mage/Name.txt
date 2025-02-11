@@ -1,0 +1,1 @@
+﻿Klasse: Zauberer<br>Spezialisierung: Windflüsterer<br><br><body_bright>Der Held kommt im Kampf abhängig von seiner Stufe früher zum Zug. Die Initiative des Helden beträgt nun 10,75 + 0,025 * Heldenstufe (statt 10).<br><color_default>Beginnt mit der Befähigung Arkanes Ritual.

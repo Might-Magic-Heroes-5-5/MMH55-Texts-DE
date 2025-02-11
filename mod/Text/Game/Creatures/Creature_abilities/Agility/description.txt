@@ -1,0 +1,1 @@
+﻿Bis zum nächsten Zug erhält diese Kreatur einen Verteidigungsbonus von +2 für jedes Feld, auf dem sie läuft.

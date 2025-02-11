@@ -1,0 +1,1 @@
+﻿Klasse: Trickser<br>Spezialisierung: Betrüger<br><br><body_bright>Jedes Mal, wenn der Held einen Lichtzauber auf eine befreundete Kreatur ausübt, besteht die Chance, dass der Zauber Rechtschaffende Stärke umsonst auf die betroffene Einheit wirkt. Die Chance beträgt 40%+Stufe*1%.<br><color_default>Beginnt mit der Fähigkeit Einfache Lichtmagie.

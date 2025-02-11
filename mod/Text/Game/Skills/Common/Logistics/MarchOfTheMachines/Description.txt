@@ -1,0 +1,1 @@
+﻿Alle Golems unter dem Befehl des Helden haben eine um +2 erhöhte Schnelligkeit. Eisen- und Stahlgolems haben eine um +2 erhöhte Initiative. Darüber hinaus wird auf Stufe 10 jeden Tag ein Eisengolem, Stahlgolem oder Magnetgolem in die Armee des Helden eintreten, vorausgesetzt, der Held hat bereits einige dieser Kreaturen in seiner Armee.

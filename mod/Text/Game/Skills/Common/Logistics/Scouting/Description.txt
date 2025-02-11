@@ -1,0 +1,1 @@
+﻿Der Blickradius des Helden erhöht sich um +12 und er erhält die Fähigkeit, die genaue Anzahl von Kreaturen in neutralen Abteilungen, feindlichen Armeen und Städten und Garnisonen in seinem Blickfeld zu erkennen.<br><color_default>Das normale Blickfeld der Helden beträgt 12 Felder.

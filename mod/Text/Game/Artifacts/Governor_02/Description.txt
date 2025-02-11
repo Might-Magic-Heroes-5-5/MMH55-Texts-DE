@@ -1,0 +1,7 @@
+﻿+6 Wissen, wenn ausgerüstet<br>
++W/2 Zufällige Ressource pro Tag<br><color_default>
+(W=Wissen des Helden, wenn die zufällige Ressource Gold ist, dann ist die Menge mit 1000 multipliziert.)<br><br><color=orange>
+Phönixe<color_default><br>
+Wirf dieses Artefakt in einen Glücksbrunnen und es wird einen Stapel Phönixe beschwören. Die Größe des Stapels ist gleich 2*Anzahl der vergangenen Wochen.<br><br><color=yellow>
+Rucksack<color_default><br>
+Ressourcen werden auch gesammelt, wenn sich das Artefakt im Rucksack befindet, aber die Funktionalität ist auf ein Artefakt pro Held beschränkt.

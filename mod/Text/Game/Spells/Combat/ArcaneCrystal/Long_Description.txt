@@ -1,0 +1,1 @@
+﻿Erschafft einen Kristall an dem ausgewählten Ort, dieser verhindert, dass benachbarte Schützen schießen können oder behindert den Weg bis zum Ende des Kampfes oder bis zu seiner Zerstörung.

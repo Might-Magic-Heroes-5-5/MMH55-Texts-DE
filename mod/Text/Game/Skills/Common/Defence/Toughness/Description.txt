@@ -1,0 +1,1 @@
+﻿Erhöht die Trefferpunkte aller Kreaturen in der Armee des Helden um 3. Der Held erwirbt das Artefakt Kampfhilfe-Set und die Lebenspunkte aller Kreaturen in der Armee des Helden werden dauerhaft um 3 erhöht.<color_default><br>Nur Nekropolishelden erhalten den Lebenspunkte-Bonus.

@@ -1,0 +1,1 @@
+﻿Die Mana-Kosten aller vom Held gewirkten Zauber(inklusive Reisezauber) werden um einen willkürlichen Betrag zwischen 10% und 30% reduziert.

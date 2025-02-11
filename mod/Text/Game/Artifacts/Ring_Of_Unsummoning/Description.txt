@@ -1,0 +1,5 @@
+﻿+2 Zauberkraft<br>
++2 Wissen<br>
+-50% auf die Anzahl von beschworenen Elementaren des feindlichen Helden<br>
+-50% HP von feindlichen beschworenen Bienenstöcken, Phönixen &  & Klingenwällen<br>
+Gewährt dem Helden die Fähigkeit "Verbannen".

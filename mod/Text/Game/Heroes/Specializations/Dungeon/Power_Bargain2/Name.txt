@@ -1,0 +1,1 @@
+﻿Klasse: Beschwörer<br>Spezialisierung: Katalysator<br><br><body_bright>Die Manakosten für aufgeladene Zaubersprüche werden um 10% + 0,5% pro Heldenstufe reduziert.<br><color_default>Beginnt mit der Befähigung Arkane Aufladung.

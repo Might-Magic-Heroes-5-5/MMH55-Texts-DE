@@ -1,0 +1,1 @@
+﻿Klasse: Runenmagier<br>Spezialisierung: Gelehrter<br><br><body_bright>Der Held beginnt mit +1 Wissen und erhöht alle 6 Stufen ein zufälliges Primärattribut.<br><color_default>Beginnt mit der Fähigkeit Einfache Beschwörende Magie.

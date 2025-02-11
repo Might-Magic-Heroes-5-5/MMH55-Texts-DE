@@ -1,0 +1,1 @@
+﻿Der Held erlernt die Rune des Übernatürlichen und jedes Mal, wenn eine Rune gewirkt wird, stellt der Held Mana gleich dem Wissen/3 (abgerundet) wieder her.

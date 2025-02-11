@@ -1,0 +1,6 @@
+﻿+1 Angriff, wenn ausgerüstet<br>
++W/2 Erz pro Woche<br><color_default>
+(W=Wissen des Helden, zum Beispiel 10 Eisen pro Woche bei 20 Wissen)<br><br><color=orange>
+Füllhorn<color_default><br>Sammle ein Artefakt für jeden Rohstofftyp (außer Gold) und besuche eine Arkane Bibliothek, um eine einzigartige Belohnung zu erhalten.<br><br><color=yellow>
+Rucksack<color_default><br>
+Ressourcen werden auch gesammelt, wenn sich das Artefakt im Rucksack befindet, aber die Funktionalität ist auf ein Artefakt pro Held beschränkt.

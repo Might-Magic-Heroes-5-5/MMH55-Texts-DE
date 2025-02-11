@@ -1,0 +1,4 @@
+﻿Der Besitzer dieses Gebäudes bietet dir einen Liefervertrag für <value=num> Gold an. Wenn du ihn annimmst, erhält dein Königreich automatisch zu Beginn jeder Woche alle Rohstoffe, die es produziert.
+
+OK = Unterschreiben Sie den Vertrag (<value=num> Gold)
+Abbrechen = Nur einen Besuch machen.

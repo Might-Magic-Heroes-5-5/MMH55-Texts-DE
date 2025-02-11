@@ -1,0 +1,1 @@
+﻿Beschwört einen Stapel Elementare, um für den Helden zu kämpfen. Die Art der beschworenen Elementare hängt von den Befähigungen ab, die der Held in der Beschwörungsmagie gelernt hat, standardmäßig werden Erdelementare beschworen, wenn keine Befähigungen gelernt wurden.

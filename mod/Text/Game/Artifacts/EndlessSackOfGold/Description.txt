@@ -1,0 +1,5 @@
+﻿+W*50 Gold pro Tag<br><color_default>
+(K=Wissen des Helden, zum Beispiel 1000 Gold pro Tag bei 20 Wissen)<br><br><color=orange>
+Goldene Gans<color_default><br>
+Bringe alle drei Artefakte, die unendlich viel Gold bringen, in eine Arkane Bibliothek, um eine einzigartige Belohnung zu erhalten<br><br><color=yellow>
+Rucksack<color_default><br>Dieses Artefakt funktioniert aus dem Rucksack, aber die Funktionalität ist auf ein Artefakt pro Held beschränkt.

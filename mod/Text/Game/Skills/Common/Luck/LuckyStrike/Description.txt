@@ -1,0 +1,1 @@
+﻿Kampffähigkeiten von Kreaturen in der Armee des Helden erhalten jedes Mal eine zweite Chance, ausgelöst zu werden.<br><color_default>Dies betrifft Fähigkeiten wie zum Beispiel das Schildschlagen der Junker.

@@ -1,0 +1,4 @@
+﻿Das Trainingsgelände für die Aufwertung von Kreaturen wurde geschlossen, aber der Quartiermeister ist immer noch bereit, Ihnen ein fortgeschrittenes Kampftraining zu geben.
+ 
+OK = +1 Angriff
+Abbrechen = +1 Verteidigung

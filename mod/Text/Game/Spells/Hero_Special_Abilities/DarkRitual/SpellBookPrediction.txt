@@ -1,0 +1,1 @@
+﻿Die Mystiker-Spezialisierung erlaubt es dir, <value=extra_mana> Mana über die normale maximale Manakapazität hinaus zu erhalten.

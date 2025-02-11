@@ -1,0 +1,1 @@
+﻿Der barbarische Held bewegt sich um 30% weniger rückwärts entlang der Initiativleiste als sonst während er angreift.

@@ -1,0 +1,1 @@
+﻿Steigert die magische Widerstandskraft aller Kreaturen in der Armee des Helden um 15%. Die Wahrscheinlichkeit, Schaden durch feindliche Magie zu vermeiden, steigt.

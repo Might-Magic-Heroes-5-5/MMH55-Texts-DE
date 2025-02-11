@@ -1,0 +1,1 @@
+﻿Angriff und Verteidigung der Kreatur wird für einen Zug verdoppelt. Die Angriffs- und Verteidgungsboni, die vom Helden ausgehen werden nicht verdoppelt und der Zauber funktioniert nich bei Drachen.

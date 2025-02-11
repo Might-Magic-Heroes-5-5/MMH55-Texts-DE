@@ -1,0 +1,1 @@
+﻿Blendet Artefakte auf der Karte aus und neutrale Helden verwenden sie, wenn die Einstellung höher als Normal ist. Artefakte werden durch Lagerfeuer ersetzt. Lagerfeuer erhöhen die Bewegungspunkte und das Mana. Die Manaregeneration wird um die Hälfte reduziert. Die Erzeugung gemischter neutraler Stapel wird immer deaktiviert, wenn diese Funktion ausgewählt ist.

@@ -1,0 +1,1 @@
+﻿Nekromanten können getötete feindliche Kreaturen als eigene Soldaten erwecken und verbrauchen dabei einen besonderen Rohstoff namens Dunkelenergie. Von dieser Energie zehren alle Nekromanten des Spielers, und sie wird zu Beginn einer jeden Woche neu aufgefüllt. Die zur Verfügung stehende Gesamtenergie hängt von der Anzahl der Nekromanten und ihrer Heldenstufe ab.

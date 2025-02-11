@@ -1,0 +1,1 @@
+﻿Der physische Schaden wird in Kämpfen um 10% erhöht.

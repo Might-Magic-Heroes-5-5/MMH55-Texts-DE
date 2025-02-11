@@ -1,0 +1,1 @@
+﻿Einmal pro Kampf kann diese Kreatur sich selbst und einen Stapel Baumriesen heilen und wiederbeleben (aktivierte Fähigkeit). Der Zielstapel erhält 4 Trefferpunkte pro Dryade, und der Dryadenstapel wird im Gegenzug um 25 Trefferpunkte pro Baumriese geheilt.

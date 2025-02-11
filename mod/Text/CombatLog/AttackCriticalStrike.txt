@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> trifft <value=target> mit einem kritischen Schlag:<value=font> <value=damage> verursachter Schaden (<value=dead> gestorben).

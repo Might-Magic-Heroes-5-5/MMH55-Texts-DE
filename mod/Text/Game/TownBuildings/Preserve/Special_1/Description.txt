@@ -1,0 +1,3 @@
+﻿<color_default>Eine Aufwertung der Gilde der Rächer.<br>
+<color_bright>Die Chance des Rächers, bevorzugten Gegnern einen kritischen Treffer zuzufügen, wird um +10% erhöht und die Verteidigung von Waldläufern wird um +1 erhöht (kumulativ mit mehreren Städten, erfordert keinen Besuch der Stadt).<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Angriffs-Bonus von +2.

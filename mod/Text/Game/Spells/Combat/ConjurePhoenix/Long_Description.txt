@@ -1,0 +1,1 @@
+﻿Beschwört einen Phönix auf dem Schlachtfeld, der an der Seite des Helden kämpft. Es kann immer nur ein Phönix gleichzeitig beschworen werden. Angriff, Verteidigung, HP, Initiative und Geschwindigkeit des Phönix hängen von der Zauberkraft des Zaubernden ab. Der Phönix ist immun gegen Magie.

@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Verteidigung und alle untoten Truppen unter der Kontrolle des Helden werden mit Eiszaubern verstärkt, die 10% des erlittenen Nahkampfschadens auf den Angreifer zurückwerfen.

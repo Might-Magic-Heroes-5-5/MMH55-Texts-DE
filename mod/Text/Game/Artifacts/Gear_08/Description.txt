@@ -1,0 +1,5 @@
+﻿+3 Glück, wenn es ausgerüstet ist<br>
++W*200 Gold pro Tag<br><color_default>
+(W=Wissen des Helden, zum Beispiel 4000 Gold pro Tag bei 20 Wissen)<br><br><color=yellow>
+Rucksack<color_default><br>
+Ressourcen werden auch gesammelt, wenn sich das Artefakt im Rucksack befindet, aber die Funktionalität ist auf ein Artefakt pro Held beschränkt.

@@ -1,0 +1,1 @@
+﻿Das Attribut Wissen des Helden erhöht den maximalen Mana-Wert des Helden: maximales Mana = 10 * Wissen. Es verbessert auch die Wirksamkeit vieler Artefakte, einiger sekundärer Fertigkeiten und der Balliste.

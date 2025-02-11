@@ -1,0 +1,1 @@
+﻿Der Held erlernt die Rune des Donnerschlags. Solange der Held nur eine einzige Rune auf eine einzige Kreatur während eines gesamten Kampfes wirkt, werden die für die Rune ausgegebenen Ressourcen nach diesem Kampf zurückgewonnen.

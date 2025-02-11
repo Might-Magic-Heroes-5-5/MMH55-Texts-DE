@@ -1,0 +1,1 @@
+﻿Klasse: Torwächter<br>Spezialisierung: Meister der Herbeirufung<br><br><body_bright>Die Anzahl der durch Herbeirufung gerufenen Kreaturen erhöht sich um 0,33% pro Heldenlevel und alle Gehörnten Dämonen, Gehörnten Aufseher und Gehörnten Soldaten in der Armee des Helden können sofort handeln, wenn der Kampf beginnt.<br><color_default>Beginnt mit der Fähigkeit Geübte Herbeirufung.

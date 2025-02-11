@@ -1,0 +1,1 @@
+﻿Normale Angriffe auf Kreaturen des Helden erfolgen immer mit Pech. Mit Glück ausgeführte Angriffe werden zu normalen Angriffen. Wenn der Feind die Befähigung Glück der Natur hat, neutralisieren sich beide Befähigungen.

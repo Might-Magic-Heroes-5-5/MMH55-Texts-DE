@@ -1,0 +1,8 @@
+﻿<br><color=white>Wichtig: <color_default>
+Dies ist nur ein Hilfstext, starten Sie die Karte nicht mit dieser Einstellung, sonst wird der Schwierigkeitsgrad zufällig sein!
+<br><color=white>Startbonus: <color_default>
+Unabhängig davon, welchen Modus du hier wählst, erhalten die Starthelden immer ein zufälliges kleines Artefakt und einen persönlichen Kreaturenbonus. Helden aus der Taverne haben schwächere Armeen.
+<br><color=white>Szenarios: <color_default>
+Szenarien können nur im Gelegenheits- oder Standardmodus gespielt werden. Wenn Sie Wild oder Alptraum wählen, wird das Spiel in den Standardmodus zurückkehren. Stadtumbau, Verwaltung und Minenkontrolle sind auf diesen Karten immer deaktiviert.
+<br><color=white>Mehrspieler: <color_default>
+In Spielen ohne KI-Spieler wird das Spiel in den Standardmodus zurückkehren. Neu erstellte ARMG-Karten funktionieren nicht im Hotseat oder LAN ohne Skriptaktivierung (verwenden Sie dazu die mitgelieferte Mapmixer-Anwendung, Verknüpfung im Startmenü).

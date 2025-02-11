@@ -1,0 +1,1 @@
+﻿Flammenwerfer: Wirksame Zauberkraft des Helden wird erhöht, wenn man Feuerball oder Aufgeladenen Feuerball wirkt. Die Erhöhung entspricht der Heldenstufe/3. Die Magiergilde beschwört auch Feuerelementare anstelle von Wölfen, allerdings nicht, wenn der Held am ersten Tag nicht auf der Karte war oder in einer Taverne angeheuert wurde.

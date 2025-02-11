@@ -1,0 +1,6 @@
+﻿+1 Glück, wenn ausgerüstet<br><br>
+Zu Beginn jeder Woche wird die Armee des Helden durch eine Anzahl Stufe-1-Kreaturen verstärkt, vorausgesetzt, dass einige bereits vorhanden sind. Die Menge ist gleich dem Wissen des Helden.
+<br><color=orange>Insignien der Legion<br><color_default>
+Bringe alle 7 Insignien der Legion auf einem Opferaltar dar, um eine einzigartige Belohnung zu erhalten.
+<br><color=yellow>Rucksack<color_default><br>
+Dieses Artefakt funktioniert vom Rucksack aus, jedoch nicht, wenn ein besseres Artefakt des gleichen Typs verfügbar ist.

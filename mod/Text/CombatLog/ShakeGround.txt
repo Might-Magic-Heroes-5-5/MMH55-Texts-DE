@@ -1,0 +1,1 @@
+﻿<value=source_color>Erdbeben verursacht <value=damage> Schaden an allen Kreaturen. <value=dead> Kreaturen getötet.

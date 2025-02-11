@@ -1,0 +1,1 @@
+﻿Der Held erwirbt den Zauber Kollektive Eile auf Fortgeschrittener Stufe, sofern er nicht über Meisterliche Lichtmagie verfügt.<br><color_default>Der ATB-Wert des Helden wird nach dem Wirken eines Massenzaubers unabhängig von der Stufe der Zauberei auf 0,15 zurückgesetzt.

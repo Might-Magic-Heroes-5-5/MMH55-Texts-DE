@@ -1,0 +1,1 @@
+﻿Verringert den Schaden, den Kreaturen durch magische Angriffe erleiden um zusätzliche 20%.

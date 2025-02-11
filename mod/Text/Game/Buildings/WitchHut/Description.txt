@@ -1,0 +1,1 @@
+﻿Erlaubt dem Helden, eine neue Fähigkeit zu erlernen oder eine bekannte zu verbessern.

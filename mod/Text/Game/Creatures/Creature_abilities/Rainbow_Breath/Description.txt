@@ -1,0 +1,1 @@
+﻿Diese Kreatur kann zufällig alle Ziele in der gewählten Richtung innerhalb einer Reichweite von 3 Feldern angreifen. Die tatsächliche Anzahl der getroffenen Felder hängt vom Glück der Kreatur ab: 1+(zufällig(1-10)+Glück)/2, abgerundet und auf maximal 5 begrenzt.  

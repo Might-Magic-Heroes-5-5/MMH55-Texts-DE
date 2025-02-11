@@ -1,0 +1,1 @@
+﻿Gewährt dem Ziel <value=target_rp> Ragepunkte.

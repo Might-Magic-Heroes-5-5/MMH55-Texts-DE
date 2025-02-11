@@ -1,0 +1,1 @@
+﻿Jedes Mal, wenn eine Einheit aus der Armee des Helden einen Initiative-Bonus aufgrund guter Moral erhält, rückt der Held 5% auf der Initiative-Leiste vor. Wenn ein negativer Moral-Effekt ausgelöst wird, bewegt sich der Held um 5% zurück.

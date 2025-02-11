@@ -1,0 +1,1 @@
+﻿Wenn diese Kreatur feindliche Einheiten angreift, kann sie ihnen Lebenspunkte entziehen und diese zur Heilung oder Wiederbelebung verwenden. Die Menge der abgezogenen Lebenspunkte entspricht 30% des zugefügten Schadens.

@@ -1,0 +1,1 @@
+﻿Klasse: Todesritter<br>Spezialisierung: Einbalsamierer<br><br><body_bright>Das Erste-Hilfe-Zelt heilt 4 weitere Trefferpunkte pro Verteidigungswert des Helden, aber der Held beginnt mit -1 Verteidigung.<br><color_default>Beginnt mit der Befähigung Erste-Hilfe-Zelt.

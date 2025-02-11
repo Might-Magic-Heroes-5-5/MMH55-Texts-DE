@@ -1,0 +1,1 @@
+﻿Gewährt Druiden +1 Zauberkraft (kumulierbar mit mehreren Städten, erfordert nicht den Besuch der Stadt) und bietet +2 Glücksbonus für jede Armee, die diese Stadt verteidigt.

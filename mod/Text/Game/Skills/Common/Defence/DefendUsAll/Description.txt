@@ -1,0 +1,1 @@
+﻿Erhöht die Verteidigung des Helden um +2 und ab Stufe 10 tritt jeden Tag ein Ork-Krieger, Ork-Schläger oder Ork-Kriegshetzer in die Armee des Helden ein, vorausgesetzt, der Held hat bereits einige dieser Kreaturen in seiner Armee.

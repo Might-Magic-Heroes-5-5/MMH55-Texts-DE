@@ -1,0 +1,3 @@
+﻿<color_bright>Ermöglicht einem Helden in der Stadt, die dortigen Zauber zu lernen. Lehrt 3 Zauber der dritten Stufe.<br><br>
+<color=orange>Mantikore<color_default><br>Dieses Gebäude kann Mantikore beschwören und sie wöchentlich der Stadtgarnison hinzufügen. Die Menge der Mantikore hängt von der Menge der Drachenblutkristalle ab, die die Helden gesammelt haben (A), und von der Erfahrungsstufe dieser Helden (B). Formel = Wurzel(Summe(A*B))/30 * (3+Gildenstufe), wobei die Summe(A*B) 600 nicht überschreiten darf. Der Betrag ist Null, wenn keine Kristalle gesammelt wurden.<br><br>
+<color=0099FF>Verwaltung<color_default><br>Gewährt dem Gouverneur dieser Stadt einen Zauberkraft-Bonus von +3.

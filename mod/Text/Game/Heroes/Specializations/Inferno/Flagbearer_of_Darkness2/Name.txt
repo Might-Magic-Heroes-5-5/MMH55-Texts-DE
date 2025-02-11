@@ -1,0 +1,1 @@
+﻿Klasse: Hexenmeister<br>Spezialisierung: Ausgewählter des Chaos<br><br><body_bright>Das Glück aller Truppen des Helden wird zu Beginn jeder Schlacht um 1 erhöht und ab Stufe 20 erhält der Held zusätzlich +1 Glück dauerhaft hinzu. Außerdem können feindliche Helden die Fähigkeit Taktik nicht im Kampf einsetzen.

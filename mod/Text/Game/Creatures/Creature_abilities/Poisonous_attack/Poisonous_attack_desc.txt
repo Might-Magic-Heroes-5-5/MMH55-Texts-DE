@@ -1,0 +1,1 @@
+﻿Zusätzlich zum normalen Schaden wird der angegriffene Feind auch noch vergiftet. Der Giftschaden ist proportional zur Anzahl der Kreaturen im angreifenden Stapel (zum Zeitpunkt der Vergiftung). Jeder Assassine und Stalker verursacht 1 Schaden für die nächsten 3 Züge. Jeder Mantikor verursacht 4 Schadenspunkte für die nächsten 10 Züge.

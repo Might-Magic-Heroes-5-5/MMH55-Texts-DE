@@ -1,0 +1,1 @@
+﻿Der Held ruft die Kräfte der Natur herbei, um gegnerische Kreaturen, die auf Distanz angreifen, zu beeinflussen. Die Initiative aller gegnerischen Schützen wird um 10% und ihr Schaden um 25% verringert.

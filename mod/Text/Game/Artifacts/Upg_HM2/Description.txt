@@ -1,0 +1,4 @@
+﻿+12 Wissen<br>
++L^4 Erfahrung bei der Erstausrüstung<br>
+Immunität aller Kreaturen gegen den Zauber Puppenspieler<br><br><color_default>
+(L=Heldenstufe, zum Beispiel 810000 Erfahrung bei Stufe 30)

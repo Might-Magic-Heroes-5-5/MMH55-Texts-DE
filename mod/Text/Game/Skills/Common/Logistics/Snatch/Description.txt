@@ -1,0 +1,1 @@
+﻿Der Held verbraucht beim Einsammeln von Rohstoffen, Besuch von Bauwerken und Booten sowie anderen ähnlichen Aktionen keine Bewegungspunkte. Grabschen funktioniert auch auf See; das Betreten eines Schiffes kostet keine Bewegungspunkte. Das Verlassen kostet die Standard-Bewegungspunkte.

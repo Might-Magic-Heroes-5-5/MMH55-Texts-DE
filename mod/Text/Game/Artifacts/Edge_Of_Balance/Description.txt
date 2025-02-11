@@ -1,0 +1,5 @@
+﻿+5 Angriff für 'Gute' Rassen<br>
+-1 Verteidigung für 'Gute' Rassen<br>
++5 Verteidigung für 'Böse' Rassen<br>
+-1 Angriff für 'Böse' Rassen<br><color_default>
+Die Magiergilde verrät die Einstellung, Bastion wird als 'Böse' behandelt.

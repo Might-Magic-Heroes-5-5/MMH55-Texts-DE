@@ -1,0 +1,1 @@
+﻿Das Füllhorn hat sich in dem magischen Brunnen aufgelöst und <value=num> Phönixe herbeigerufen.

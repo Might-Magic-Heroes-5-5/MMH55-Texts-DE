@@ -1,0 +1,1 @@
+﻿Bringen Sie mir <value=qty> <value=type> und Sie werden reichlich belohnt werden!

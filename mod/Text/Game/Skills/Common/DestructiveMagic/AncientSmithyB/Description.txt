@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Angriff und alle von ihm angeführten Kreaturen erleiden zusätzlichen Feuerschaden in Höhe von 10% des von ihren Angriffen verursachten Schadens. Feinde, die immun gegen Feuer sind, erleiden keinen zusätzlichen Schaden.

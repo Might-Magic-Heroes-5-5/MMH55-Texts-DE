@@ -1,0 +1,1 @@
+﻿Der ausgewählte Feind erleidet Schaden in Höhe der Anzahl der Kreaturen in der Armee des Helden * 0,8 und alle Bastionskreaturen in der Armee des Helden erhalten zusätzliche Ragepunkte. Der Schaden kann durch magischen Schutz reduziert werden oder auch komplett abgewehrt werden. Er kann nicht durch Magiespiegel reflektiert werden.

@@ -1,0 +1,1 @@
+﻿Bogenschützenkommandant: Alle Bogenschützen, Scharfschützen und Armbrustschützen in der Armee des Helden erhalten ab der ersten Stufe +1 auf Angriff und Verteidigung für alle zwei Stufen des Helden hinzu, beginnend ab der ersten Stufe.

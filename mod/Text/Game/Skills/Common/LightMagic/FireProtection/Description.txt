@@ -1,0 +1,1 @@
+﻿Der Held erhält +2 Verteidigung und alle Kreaturen in der Armee des des Helden erleiden nur 50% Schaden von allen Feuerzaubern und sind immun gegen rüstungsschädigende Effekte der Befähigung Meister des Feuers.

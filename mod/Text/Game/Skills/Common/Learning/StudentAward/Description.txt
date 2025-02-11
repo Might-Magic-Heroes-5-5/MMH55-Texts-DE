@@ -1,0 +1,1 @@
+﻿Da er so lernwillig ist, steigert der Held sein Attribut Wissen dauerhaft um +2 und bekommt einen einmaligen Bonus von 1000 Erfahrungspunkten + 250 für jede Heldenstufe.

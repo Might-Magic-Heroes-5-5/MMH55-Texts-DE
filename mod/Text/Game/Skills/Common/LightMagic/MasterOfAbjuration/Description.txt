@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Zähigkeit und außerdem wird das Wirken der Zauber Geschosse Ablenken und Zähigkeit auf alle eigenen Einheiten gleichzeitig ermöglicht.<br><color_default>Die Wirkkosten für dieser Zauber werden vervierfacht. Der ATB-Wert des Helden wird nach dem Wirken eines Massenzaubers unabhängig von der Stufe der Zauberei auf 0,15 zurückgesetzt.

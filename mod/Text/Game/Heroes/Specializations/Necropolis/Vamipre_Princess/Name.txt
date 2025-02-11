@@ -1,0 +1,1 @@
+﻿Klasse: Todesritter<br>Spezialisierung: Vampirprinzessin<br><br><body_bright>Alle Vampire, Vampirfürsten und Vampirprinzen in der Armee des Helden erhalten +1 zu ihrem Angriff und ihrer Verteidigung für alle zwei Stufen des Helden, beginnend mit der ersten Stufe.<br><color_default>Beginnt mit der Fähigkeit Geübter Angriff.

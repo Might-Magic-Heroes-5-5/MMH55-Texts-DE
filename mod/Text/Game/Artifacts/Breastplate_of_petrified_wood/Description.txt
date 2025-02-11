@@ -1,0 +1,2 @@
+﻿+2 Zauberkraft<br>
++2 Mana pro Tag, wenn das Artefakt ununterbrochen ausgerüstet wird

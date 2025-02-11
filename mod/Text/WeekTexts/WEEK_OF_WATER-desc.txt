@@ -1,0 +1,1 @@
+﻿Der Schaden von Eiszaubern wird während des Kampfes um 10% erhöht. Die Anzahl der beschworenen Wasserelementare erhöht sich um 50%.

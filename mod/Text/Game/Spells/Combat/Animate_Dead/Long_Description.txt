@@ -1,0 +1,1 @@
+﻿Erweckt getötete Kreaturen einer eigenen Abteilung. Untote Kreaturen werden dauerhaft ins Unleben zurückgeholt, alle anderen Kreaturen werden nur für die Dauer der Schlacht reanimiert.

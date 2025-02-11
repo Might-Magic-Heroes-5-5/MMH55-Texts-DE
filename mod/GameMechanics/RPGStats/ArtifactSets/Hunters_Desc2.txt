@@ -1,0 +1,1 @@
+﻿Alle Schützen werden um 30% weniger in der Initiativleiste zurückgesetzt als üblich während sie schießen. Waldläufer, Wächter und Druiden haben ihr Glück um +1 erhöht.

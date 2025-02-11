@@ -1,0 +1,1 @@
+﻿Der Held erlernt den Zauber Feuerball und verleiht den Zaubern Feuerball, Feuerwall und Armageddon zusätzliche rüstungszersetzende Wirkung.<br><color_default>Der Verteidigungswert aller mit diesem Zauber belegten Kreaturen verringert sich um 50%. Der Verteidigungs-Abzug hält 1 Runde an und ist nicht kumulativ.

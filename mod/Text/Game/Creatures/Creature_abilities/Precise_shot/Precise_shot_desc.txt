@@ -1,0 +1,1 @@
+﻿Wenn der Armbrustschütze aus nächster Nähe schießt (5 Felder oder weniger vom Ziel entfernt), fügt er größeren Schaden zu, da die Verteidigung des Ziels nicht wirksam ist.

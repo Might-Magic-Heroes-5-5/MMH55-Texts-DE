@@ -1,0 +1,1 @@
+﻿Arkaner Bogenschütze: Der Held erlernt den Zauber "Aufgeladener Blitzschlag" auf Stufe 10 und den Zauber "Aufgeladener Kettenblitz" auf Stufe 30, obwohl er nicht in der Lage ist, die Befähigung "Arkane Aufladung" zu erlernen. Blitzzauber, die von diesem Helden gewirkt werden, ignorieren die Magieresistenz, aber Immunitäten und Magieschutz gelten weiterhin.

@@ -1,0 +1,2 @@
+﻿+2 Verteidigung<br>
+-40% Schaden durch Luftzauber

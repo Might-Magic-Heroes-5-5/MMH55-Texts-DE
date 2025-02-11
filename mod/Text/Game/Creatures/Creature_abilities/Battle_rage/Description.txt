@@ -1,0 +1,1 @@
+﻿Wenn diese Kreatur Schaden erleidet, wird ihre Initiative vorübergehend um +2 und ihr Angriff um +8 erhöht.

@@ -1,0 +1,1 @@
+﻿Paragon: Der Held startet mit +2 Wissen und die Wirkung des Zaubers Eile wird für jede Heldenstufe um 0,15% erhöht.

@@ -1,0 +1,1 @@
+﻿Der Held zieht seine Waffe der Magie vor. Es besteht eine 70-prozentige Wahrscheinlichkeit, dass der Held einen kritischen Treffer erzielt, der dem Ziel doppelten Schaden zufügt.

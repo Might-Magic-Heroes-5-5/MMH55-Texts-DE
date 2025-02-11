@@ -1,0 +1,1 @@
+﻿Diese Kreatur greift den Feind an und vergiftet ihn. Die Wirkung des Gifts hält noch drei weitere Runden an, wobei sie in jeder ihrer Runden Schaden am Ziel verursacht. Der Schaden pro Zug ist gleich der Stapelgröße*6. Der Gift-Effekt kann durch 'Handauflegen' und das Erste-Hilfe-Zelt entfernt werden, aber nicht durch 'Reinigung' oder 'Säuberung'.

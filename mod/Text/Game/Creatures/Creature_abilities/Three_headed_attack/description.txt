@@ -1,0 +1,1 @@
+﻿Die Kreatur beißt ihr Hauptziel und fügt ihm vollen Schaden zu und sendet eine Drei-Wege-Feuerwelle aus, die an anderen Gegnern in einem 2-Felder-Radius 75% Schaden verursacht.

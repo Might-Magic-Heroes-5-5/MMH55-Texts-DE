@@ -1,0 +1,1 @@
+﻿Dämonologe: Der startet mit +2 Wissen und zu Beginn jeder Woche werden weitere gehörnte Dämonen, gehörnte Aufseher oder gehörnte Soldaten in die Armee des Helden eintreten (vorausgesetzt, dass einige dieser Kreaturen anwesend sind). Die Menge entspricht dem Heldenlevel. Der Betrag wird um 75% für jede zusätzlich eroberte Stadt, die der Fraktion des Helden entspricht, erhöht.

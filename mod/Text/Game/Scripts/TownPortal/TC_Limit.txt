@@ -1,0 +1,1 @@
+﻿<color=yellow>Die Konversionsgrenze ist für diese Fraktion erreicht.

@@ -1,0 +1,1 @@
+﻿Hüllt das Ziel in einen magischen Energieschild, der einen Teil allen Schadens aufzehrt, den die Kreatur erleidet. Die Effektivität hängt von der Zauberkraft ab, und vollständige Unverwundbarkeit wird erreicht, wenn der Zaubernde 60 davon besitzt.

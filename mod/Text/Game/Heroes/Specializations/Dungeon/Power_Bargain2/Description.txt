@@ -1,0 +1,1 @@
+﻿Katalysator: Die Manakosten für aufgeladene Zaubersprüche werden um 10% + 0,5% pro Heldenstufe reduziert.

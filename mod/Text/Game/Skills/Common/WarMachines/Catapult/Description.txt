@@ -1,0 +1,2 @@
+﻿Ermöglicht die manuelle Steuerung des Katapults und das Katapult erhält einen zusätzlichen Schuss. Der Held erhält außerdem die Angriffsboni des Munitionswagens, die normalerweise nur den Fernkampfeinheiten der Armee gewährt werden.<br><color_default>
+Stellt den Munitionswagen nach dem Kampf wieder her, wenn er zerstört wurde. Die Trefferpunkte des Katapults und des Munitionswagens werden mit 3 multipliziert.
